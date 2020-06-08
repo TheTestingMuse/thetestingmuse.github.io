@@ -1,20 +1,10 @@
 ---
-id: 471
 title: A Polarising opinion!
 date: 2020-01-21T08:12:53+00:00
-author: TheTestingMuse
+author: David Williams @TheTestingMuse
 layout: post
-guid: https://thetestingmuse.uk/?p=471
 permalink: /blog/a-polarising-opinion/
-classic-editor-remember:
-  - classic-editor
-site-sidebar-layout:
-  - default
-site-content-layout:
-  - default
-theme-transparent-header-meta:
-  - default
-image: /wp-content/uploads/2020/01/Screenshot-2020-01-21-at-08.10.16.png
+image: /images/posts//Screenshot-2020-01-21-at-08.10.16.png
 categories:
   - Testing
 ---
@@ -22,7 +12,7 @@ How many of you drive a car?
 
 And when it’s sunny, you likely wear sunglasses, right? Maybe polarised ones to benefit from additional UV blocking?
 
-<img class="alignright size-full wp-image-472" src="https://thetestingmuse.uk/wp-content/uploads/2020/01/polarised.jpeg" alt="Dark spots in car window" width="225" height="225" srcset="https://thetestingmuse.uk/wp-content/uploads/2020/01/polarised.jpeg 225w, https://thetestingmuse.uk/wp-content/uploads/2020/01/polarised-150x150.jpeg 150w" sizes="(max-width: 225px) 100vw, 225px" /> 
+<img style="float:right" src="images/polarised.jpeg" alt="Dark spots in car window" width="225" height="225" />
 
 And have you ever noticed, while driving, and wearing your polarised sunglasses, the dark spotting in some of your car windows?
 
