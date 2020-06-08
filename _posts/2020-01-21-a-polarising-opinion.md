@@ -4,7 +4,7 @@ date: 2020-01-21T08:12:53+00:00
 author: David Williams @TheTestingMuse
 layout: post
 permalink: /blog/a-polarising-opinion/
-image: /images/posts/Screenshot-2020-01-21-at-08.10.16.png
+image: /images/posts/post-polarised.png
 categories:
   - Testing
 ---
