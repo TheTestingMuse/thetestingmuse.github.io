@@ -5,6 +5,7 @@ author: David
 layout: post
 permalink: /blog/assumptions-vs-biases/
 image: /images/posts/biases.png
+excerpt_separator: <!--more-->
 categories:
   - Agile
   - Communication
@@ -24,9 +25,9 @@ During the clinic there was a lot of discussion as you'd imagine from a room of 
 At that point I was _(correctly!)_ questioned on that assertion by my friend [Tony Bruce](https://twitter.com/tonybruce77) on why I think one is positive and one negative.
 
 _\*cue mind melt in front of the whole group\*_
-
-I felt 100% that a bias is a bad thing that serves no purpose in the mind of an exploratory tester but I couldn't articulate why. I also knew that generally speaking the thought of assumptions doesn't give me anywhere near the type of negative reaction than the thought of a bias does, but again I couldn't explain why. So I did the best thing I could ; I stopped to question my opinion and whether it was actually an assumption or bias about assumptions and biases. 🙂
-
+<!--more-->
+I felt 100% that a bias is a bad thing that serves no purpose in the mind of an exploratory tester but I couldn't articulate why. I also knew that generally speaking the thought of assumptions doesn't give me anywhere near the type of negative reaction than the thought of a bias does, but again I couldn't explain why. So I did the best thing I could; I stopped to question my opinion and whether it was actually an assumption or bias about assumptions and biases. 🙂
+<!--more-->
 Let me start my thought process with two definitions:
 
 ## **bias**
@@ -51,7 +52,7 @@ The same as I thought; one is "_considered to be unfair_" which lends to the neg
 
 ### Assumptions
 
-How does that apply to my testing? Well from my perspective an assumption is something active ; it's the deliberate initiation of a thought designed to bring that thought to the front of my mind while testing so that I can prove/disprove it (Tony Bruce defined this as a &#8216;test idea' which is definitely another great description for it ; thanks Tony!) Some examples would be:
+How does that apply to my testing? Well from my perspective an assumption is something active ; it's the deliberate initiation of a thought designed to bring that thought to the front of my mind while testing so that I can prove/disprove it (Tony Bruce defined this as a 'test idea' which is definitely another great description for it ; thanks Tony!) Some examples would be:
 
   1. I assume that the logo at the top of this page will have a hyperlink back to the homepage.
   2. I assume that the navigation items all have hyperlinks to their correct pages.
