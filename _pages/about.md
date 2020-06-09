@@ -8,18 +8,8 @@ featured_image: /images/demo/about.jpg
 # David Williams - @TheTestingMuse
 
 **Testing** | **Muse**
-*noun* [ U ] UK ​ */ˈtestɪŋ/* US | *noun* [ C ] UK ​ */mjuːz/* US ​ */mjuːz/* literary
-The process of using or trying something to see if it works, is suitable, obeys the rules, etc. | A person, or an imaginary being or force that gives someone ideas and helps them to write, paint, or make music.
-
-## Testing
-*noun* [ U ] UK ​ */ˈtestɪŋ/* US
-
-The process of using or trying something to see if it works, is suitable, obeys the rules, etc.
-
-## Muse
-*noun* [ C ] UK ​ */mjuːz/* US ​ */mjuːz/* literary
-
-A person, or an imaginary being or force that gives someone ideas and helps them to write, paint, or make music.
+--- | ---
+*noun* [ U ] UK ​ */ˈtestɪŋ/* US <br />The process of using or trying something to see if it works, is suitable, obeys the rules, etc.| *noun* [ C ] UK ​ */mjuːz/* US ​ */mjuːz/* literary <br />A person, or an imaginary being or force that gives someone ideas and helps them to write, paint, or make music.
 
 ## Core Values
 I try to stick to a core set of Values that drive each decision I make.
