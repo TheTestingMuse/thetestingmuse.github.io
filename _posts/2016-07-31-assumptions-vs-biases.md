@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Assumptions vs Biases
-description: I felt 100% that a bias is a bad thing that serves no purpose in the mind of an exploratory tester but I couldn't articulate why. I also knew that generally speaking the thought of assumptions doesn't give me anywhere near the type of negative reaction than the thought of a bias does, but again I couldn't explain why. So I did the best thing I could; I stopped to question my opinion and whether it was actually an assumption or bias about assumptions and biases. 🙂
+description: "... I felt 100% that a bias is a bad thing that serves no purpose in the mind of an exploratory tester but I couldn't articulate why. I also knew that generally speaking the thought of assumptions doesn't give me anywhere near the type of negative reaction than the thought of a bias does, but again I couldn't explain why. So I did the best thing I could; I stopped to question my opinion and whether it was actually an assumption or bias about assumptions and biases..."
 date: 2016-07-31 18:41:37 +01:00
 author: David
 permalink: /blog/assumptions-vs-biases/
