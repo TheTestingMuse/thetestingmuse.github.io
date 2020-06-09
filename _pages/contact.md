@@ -5,7 +5,8 @@ description: So, how can you get in touch?
 featured_image: /images/demo/contact.jpg
 ---
 
-<img src="images/posts/ACS_0139-225x300.jpg" alt="Photo of David Williams" style="float:right; width:225px; height:"300px;" />
+<img src="images/posts/ACS_0139-225x300.jpg" alt="Photo of David Williams" style="float:right; width:225px; height:300px;" />
+
 Hey, thanks for visiting my website and for wanting to get in touch with me.
 
 Please feel free to fill-out the form to the right, or to track me down on one of the various social media platforms I use, using the icons below.
