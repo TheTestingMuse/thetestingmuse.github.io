@@ -1,11 +1,15 @@
 ---
 title: About me
-subtitle: Subtitle
+subtitle: So, you want to learn more about me?
 description: So, you want to learn more about me?
 featured_image: /images/demo/about.jpg
 ---
 
 # David Williams - @TheTestingMuse
+
+**Testing** | **Muse**
+*noun* [ U ] UK ​ */ˈtestɪŋ/* US | *noun* [ C ] UK ​ */mjuːz/* US ​ */mjuːz/* literary
+The process of using or trying something to see if it works, is suitable, obeys the rules, etc. | A person, or an imaginary being or force that gives someone ideas and helps them to write, paint, or make music.
 
 ## Testing
 *noun* [ U ] UK ​ */ˈtestɪŋ/* US
