@@ -7,7 +7,7 @@ featured_image: /images/demo/about.jpg
 
 # David Williams - @TheTestingMuse
 
-**Testing** | **Muse**
+Testing | Muse
 --- | ---
 *noun* [ U ] UK ​ */ˈtestɪŋ/* US <br />The process of using or trying something to see if it works, is suitable, obeys the rules, etc.| *noun* [ C ] UK ​ */mjuːz/* US ​ */mjuːz/* literary <br />A person, or an imaginary being or force that gives someone ideas and helps them to write, paint, or make music.
 
