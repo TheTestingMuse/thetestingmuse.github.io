@@ -5,7 +5,8 @@ description: So, you want to learn more about me?
 featured_image: /images/demo/about.jpg
 ---
 
-# David Williams - @TheTestingMuse
+# David Williams
+**@TheTestingMuse**
 
 Testing | Muse
 --- | ---
