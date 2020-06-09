@@ -1,10 +1,12 @@
 ---
-title: Assumptions vs Biases
-date: 2016-07-31T18:41:37+01:00
-author: David
 layout: post
+title: Assumptions vs Biases
+subtitle: Subtitle
+description: Description
+date: 2016-07-31 18:41:37 +01:00
+author: David
 permalink: /blog/assumptions-vs-biases/
-image: /images/posts/biases.png
+featured-image: /images/posts/biases.png
 excerpt_separator: <!--more-->
 categories:
   - Agile
