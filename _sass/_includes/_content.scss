@@ -132,7 +132,7 @@
 		thead {
 			background: $text-dark-color;
 			color: $background-color;
-			text-align: left;
+			text-align: center;
 			font-weight: $bold-weight;
 
 			th {
@@ -154,7 +154,7 @@
 				font-size: $p-medium;
 			}
 		}
-		
+
 		tr {
 
 			&:nth-child(2n) {
@@ -218,7 +218,7 @@
 					text-align: center;
 					color: $text-light-color;
 				}
-				
+
 				p {
 					display: inline;
 					max-width: 100%;

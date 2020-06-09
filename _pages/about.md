@@ -9,7 +9,7 @@ featured_image: /images/demo/about.jpg
 
 Testing | Muse
 --- | ---
-<p>*noun* [ U ] UK ​ */ˈtestɪŋ/* US </p><p>The process of using or trying something to see if it works, is suitable, obeys the rules, etc.</p> | <p>*noun* [ C ] UK ​ */mjuːz/* US ​ */mjuːz/* literary </p><p>A person, or an imaginary being or force that gives someone ideas and helps them to write, paint, or make music.</p>
+*noun* [ U ] UK ​ */ˈtestɪŋ/* US<br /><br />The process of using or trying something to see if it works, is suitable, obeys the rules, etc. | *noun* [ C ] UK ​ */mjuːz/* US ​ */mjuːz/* literary<br /><br />A person, or an imaginary being or force that gives someone ideas and helps them to write, paint, or make music.
 
 ## Core Values
 I try to stick to a core set of Values that drive each decision I make.
