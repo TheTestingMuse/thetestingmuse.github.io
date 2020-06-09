@@ -14,8 +14,6 @@ categories:
 ---
 # Assumptions vs Biases
 
-_Originally posted on 31/07/2016_
-
 On Wednesday of last week the Software Testing Clinic held yet another excellent event in London; this time at the Thoughtworks offices in the West End (I \*love\* your London office space Thoughtworks!) and the topic this month was Exploratory Testing.
 
 During the clinic there was a lot of discussion as you'd imagine from a room of extremely intelligent and passionate testers and on one subject I made a comment along the lines of:

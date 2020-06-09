@@ -27,11 +27,11 @@ My Core Values are:
 * Be graciously disruptive
 
 ## Who Am I?
-I’m a 42 year old husband, and father of two amazing kids, living in Kent, United Kingdom.
+I’m a 42 year old husband, and father of two amazing kids. I live in Kent, in the United Kingdom.
 
-I’m an award-winning international conference speaker on topics ranging from Mental Health in Engineering, to Diversity and Inclusion in Technology, and also a [Mental Health First Aid](https://mhfaengland.org/) practitioner.
+I’m an award-winning international conference speaker, and also a [Mental Health First Aid](https://mhfaengland.org/) practitioner.
 
-I am also Hosting the London [Ministry of Testing “Essentials”](https://www.meetup.com/Ministry-of-Testing-London/events/) event monthly in the amazing [Zoopla](https://careers.zoopla.co.uk/life-at-zoopla/) offices, near Tower Bridge throughout 2020, and am a [Ministry of Testing Podcast](https://www.ministryoftesting.com/dojo/podcasts) host – I **love** to share my experience and knowledge with people to help them be the best version of themselves.
+I am also Hosting the London [Ministry of Testing “Essentials”](https://www.meetup.com/Ministry-of-Testing-London/events/) event monthly in the amazing [Zoopla](https://careers.zoopla.co.uk/life-at-zoopla/) offices, near Tower Bridge throughout 2020 – I **love** to share my experience and knowledge with people to help them be the best version of themselves.
 
 During my [17 years](https://www.linkedin.com/in/thetestingmuse/) in the field of quality and testing I’ve been a tester, senior, lead, test manager, head of testing and am now instrumental to helping [Zoopla](https://careers.zoopla.co.uk/life-at-zoopla/) to transform into an agile (lower-case ‘a’) and truly quality-focused group.
 
