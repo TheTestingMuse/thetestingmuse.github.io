@@ -38,7 +38,7 @@ I’m an award-winning international conference speaker on topics ranging from M
 
 I am also Hosting the London [Ministry of Testing “Essentials”](https://www.meetup.com/Ministry-of-Testing-London/events/) event monthly in the amazing [Zoopla](https://careers.zoopla.co.uk/life-at-zoopla/) offices, near Tower Bridge throughout 2020, and am a [Ministry of Testing Podcast](https://www.ministryoftesting.com/dojo/podcasts) host – I **love** to share my experience and knowledge with people to help them be the best version of themselves.
 
-During my [16 years](https://www.linkedin.com/in/thetestingmuse/) in the field of quality and testing I’ve been a tester, senior, lead, test manager, head of testing and am now instrumental to helping [Zoopla](https://careers.zoopla.co.uk/life-at-zoopla/) to transform into a truly agile (lower-case ‘a’) group.
+During my [17 years](https://www.linkedin.com/in/thetestingmuse/) in the field of quality and testing I’ve been a tester, senior, lead, test manager, head of testing and am now instrumental to helping [Zoopla](https://careers.zoopla.co.uk/life-at-zoopla/) to transform into an agile (lower-case ‘a’) and truly quality-focused group.
 
 I have a technical mindset and a real passion for investigation and testing as a profession (especially risk-based, and Exploratory Testing with developer tools, proxies, and API’s). I’ve been told that my passion is infectious when talking about my experiences and perspectives on the subject.
 
@@ -70,48 +70,57 @@ A few of my recent blog posts:
 ## Positivity
  I little while ago I blogged on Medium about the mental health benefit with keeping a book of positive feedback, and using that book to remind yourself of the good work you do on a daily basis.
 
-Please feel free to read and comment HERE.
+Please feel free to read and comment [HERE](https://medium.com/@TheTestingMuse/personalised-book-of-positivity-ff68f155f504).
 
-The following Testimonials are taken from my own ***Personal Book of Positivity***:
+The following Testimonials are taken from my own **Personal Book of Positivity**:
 
-“Congratulations David! Your talk, Mental Health as a Tester, has been selected for Let’s Test South Africa. We are really excited to have you speak and we think your talk will really help make Let’s Test South Africa amazing. I particularly loved your talk proposal and I really hope to meet you at Let’s Test!”
+> “Congratulations David! Your talk, Mental Health as a Tester, has been selected for Let’s Test South Africa. We are really excited to have you speak and we think your talk will really help make Let’s Test South Africa amazing. I particularly loved your talk proposal and I really hope to meet you at Let’s Test!”
+
 Matthew Broadley
 Event Organiser @ Let’s Test
 
-“I now prefer @TheTestingMuse’s example of a fish tank, where all the filters run at once, all the time – It really represents how I test, since I work in continuously deployed systems. I love the parity between the different aspects of testing and the different purposes of fishtank filters. Really excellent metaphor 🐟 that gets away from the ‘sizes of testing’ trope.”
+> “I now prefer @TheTestingMuse’s example of a fish tank, where all the filters run at once, all the time – It really represents how I test, since I work in continuously deployed systems. I love the parity between the different aspects of testing and the different purposes of fishtank filters. Really excellent metaphor 🐟 that gets away from the ‘sizes of testing’ trope.”
+
 Noah Sussman
 Principal Software Engineer @ Medidata
 
-“The technology blew up & @TheTestingMuse gave a brilliant talk on mental health. Stress handling at it’s best! @LetsTest_Conf #LetsTest #ZA”
+> “The technology blew up & @TheTestingMuse gave a brilliant talk on mental health. Stress handling at it’s best! @LetsTest_Conf #LetsTest #ZA”
+
 Olga Yiannakis
 Agile Coach @ Prodigy Finance
 
-“😂 That analogy is AMAZING. I’m totally stealing it.”
+> “😂 That analogy is AMAZING. I’m totally stealing it.”
+
 Katrina Clokie
 Test Practice Manager @ BNZ
 
-“David believes in me even when I don’t. David will put himself in uncomfortable positions with other people if it will benefit the team. David pushed me but supports me in the process, making it feel doable. Overall David is awesome!”
+> “David believes in me even when I don’t. David will put himself in uncomfortable positions with other people if it will benefit the team. David pushed me but supports me in the process, making it feel doable. Overall David is awesome!”
+
 Deborah Lee
 Lead Tester @ Bloom & Wild
 
-“Mega fan of the topic (and the speaker!)”
+> “Mega fan of the topic (and the speaker!)”
+
 Abby Bangser
 Software Testing Clinic
 
-“Huge move from Test Partners to eBay. It shows you can’t keep great talent down for long”
+> “Huge move from Test Partners to eBay. It shows you can’t keep great talent down for long”
+
 Salvatore Minetti
 CEO Prospex AI
 
-“Inspiring and searingly honest talk by on #mentalhealth for tech workers. Audience clearly moved, and LOTS of questions and conversation afterwards #rtc2019”
+> “Inspiring and searingly honest talk by on #MentalHealth for tech workers. Audience clearly moved, and LOTS of questions and conversation afterwards #rtc2019”
+
 Rhian Lewis
 Technology Consultant
 
-“Just wanted to let you know I’ve watched your talk from Testbash. Really powerful. Also, kudos to your wonderful wife! You bring a very positive message that there are people around you to lift you up. I’ve organized around 10 conferences and seen many talks and I think you are a good speaker, engaging and energetic.”
+> “Just wanted to let you know I’ve watched your talk from TestBash. Really powerful. Also, kudos to your wonderful wife! You bring a very positive message that there are people around you to lift you up. I’ve organised around 10 conferences and seen many talks and I think you are a good speaker, engaging and energetic.”
+
 Joanna Mocko
 IT Matters Conference Organiser
 
 ## Awards
 In the vein of positivity above, this section is dedicated to any awards or certifications I have achieved.
 
-2018 – Mental Health First Aid
-2018 - Excelleence in Innovation @eBay
+- 2018 – Mental Health First Aid
+- 2018 - Excellence in Innovation @eBay
