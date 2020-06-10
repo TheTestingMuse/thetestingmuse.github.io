@@ -152,10 +152,16 @@ p, ul, ol {
 	}
 }
 
-ul, ol {
+ul {
 	list-style-position: inside;
 	padding: 0 0 1em 2em;
 	text-indent: -1.4em;
+}
+
+ol {
+	list-style-position: inside;
+	padding: 0 0 1em 2em;
+	text-indent: -1.2em;
 }
 
 blockquote {
