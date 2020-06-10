@@ -43,8 +43,9 @@ So what can we do about it?
 
 Well a while before last year’s version of this post, I read an article about the brain retaining information better if it’s written down by hand, rather than just reading on a screen, or trying to remember it, so I embarked on an adventure to bring back writing, drawing, and doodling to my daily work.
 
-<img src="/images/posts/PBoP-200x300.jpeg" alt="Example entries for a Personal Book of Positivity" class="float:right; width:200px; height:300px; max-width:200px" /> So my process was simply this:
+<img src="/images/posts/PBoP-200x300.jpeg" alt="Example entries for a Personal Book of Positivity" class="float:right; width:200px; height:300px; max-width:200px" />
 
+So my process was simply this:
 1. I bought a pocket notebook.
 2. On my mobile, I wrote down **any** positive work feedback which made me smile, or feel good about the work I do, _as soon as possible_ after it occurred (voice dictation or Siri is great for that!)
 3. On weekends, I copied into my physical notebook anything I'd noted down during the week.
