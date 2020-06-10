@@ -154,8 +154,8 @@ p, ul, ol {
 
 ul, ol {
 	list-style-position: inside;
-	padding-left: 2em;
-	text-indent: -2em;
+	padding: 0 0 1em 2em;
+	text-indent: -1.4em;
 }
 
 blockquote {
