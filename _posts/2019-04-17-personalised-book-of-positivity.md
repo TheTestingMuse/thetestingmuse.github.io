@@ -5,7 +5,7 @@ description: I wrote down any positive work feedback which made me smile, or fee
 date: 2019-04-17 22:19:53 +01:00
 author: David
 permalink: /blog/personalised-book-of-positivity/
-featured_image: /images/posts/2.png
+featured_image: /images/posts/PBoP.jpeg
 categories:
   - Feedback
   - Mental Health
