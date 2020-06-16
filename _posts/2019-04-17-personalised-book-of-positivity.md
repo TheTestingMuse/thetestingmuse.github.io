@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Personalised Book of Positivity
-description: I wrote down any positive work feedback which made me smile, or feel good about the work I do, as soon as possible after it occurred (voice dictation or Siri is great for that!)... I break out my Personalised Book of Positivity (PBoP) to remind myself of the times I’ve done well and received positive feedback, including the context of why I did good, or received that feedback.
+description: "... I wrote down any positive work feedback which made me smile, or feel good about the work I do, as soon as possible after it occurred (voice dictation or Siri is great for that!)... I break out my Personalised Book of Positivity (PBoP) to remind myself of the times I’ve done well and received positive feedback, including the context of why I did good, or received that feedback."
 date: 2019-04-17 22:19:53 +01:00
 author: David
 permalink: /blog/personalised-book-of-positivity/
