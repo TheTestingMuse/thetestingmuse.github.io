@@ -2,7 +2,7 @@
 title: Contact me
 subtitle: So, how can you get in touch?
 description: So, how can you get in touch?
-featured_image: /images/demo/contact.jpg
+featured_image: /images/contact.jpeg
 ---
 
 
