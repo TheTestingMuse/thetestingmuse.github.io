@@ -7,6 +7,10 @@
 .contact-form {
 	margin: 20px auto;
 	width: 100%;
+	background: url(/images/contact-form.png) repeat-x #fff;
+	padding: 25px;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.17) 0px 5px 13px;
+	box-shadow: rgba(0, 0, 0, 0.17) 0px 5px 13px;
 
 	@include mq(tabletp) {
 		margin: 30px auto;
