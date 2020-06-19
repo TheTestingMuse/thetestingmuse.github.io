@@ -57,6 +57,6 @@ So there you have it; my (possibly over-thinking it!) definition of how I see As
 
 _EDIT: In this post I'm talking about the **bias itself**, not the outcome of the bias (which could be positive, neutral, negative or anywhere in between) which is a separate topic_ 😉
 
-<div class="button button--large">
-<a href="/blog/">Back to my blog</a>
+<br /><div class="button button--large">
+<input type="button" value="Back" onclick="history.back(-1)" />
 </div>
