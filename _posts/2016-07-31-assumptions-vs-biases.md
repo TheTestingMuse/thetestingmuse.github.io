@@ -56,8 +56,3 @@ A bias on the other hand is something passive and that I'm often unaware of unti
 So there you have it; my (possibly over-thinking it!) definition of how I see Assumptions vs Biases in exploratory testing.
 
 _EDIT: In this post I'm talking about the **bias itself**, not the outcome of the bias (which could be positive, neutral, negative or anywhere in between) which is a separate topic_ 😉
-
-<br />
-<div class="button button--large">
-<a href="/blog/">My blog</a>
-</div>

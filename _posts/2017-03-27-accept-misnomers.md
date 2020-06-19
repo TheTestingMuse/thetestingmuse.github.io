@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Accept misnomers - The bigger picture is helping, not correcting language
+title: Accept misnomers
 subtitle: 27th March 2017
 description: "... What we need to strive for is the establishment of a common 'language' on projects that allow the participants the ability to discuss things in the most efficient manner possible adding as little ambiguity into the discussion as possible, not to pick apart people's differing descriptions of the same thing."
 date: 2017-03-27 13:24:49 +01:00
