@@ -8,7 +8,6 @@
   font-size: $p-small;
   display: block;
   width: 100%;
-  background-color: $background-color;
 }
 
 .PageNavigationPrev {
@@ -16,7 +15,6 @@
   width: 40%;
   overflow: auto;
   float: left;
-  background-color: $background-color;
 }
 
 .PageNavigationNext {
@@ -24,7 +22,6 @@
   width: 40%;
   overflow: auto;
   float: right;
-  background-color: $background-color;
 }
 
 .PageNavigationPrev .prev {
