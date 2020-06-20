@@ -27,22 +27,18 @@ layout: default
 
 		</article>
 
-		<article class="single-post">
-
-			<div class="PageNavigation">
-				<div class="PageNavigationPrev">
-				  {% if page.previous.url %}
-				    <a class="prev" href="{{page.previous.url}}">&lt;&lt; {{page.previous.title}}</a>
-				  {% endif %}
-				</div>
-				<div class="PageNavigationNext">
-				  {% if page.next.url %}
-				    <a class="next" href="{{page.next.url}}">{{page.next.title}} &gt;&gt;</a>
-				  {% endif %}
-				</div>
+		<div class="PageNavigation">
+			<div class="PageNavigationPrev">
+			  {% if page.previous.url %}
+			    <a class="prev" href="{{page.previous.url}}">&lt;&lt; {{page.previous.title}}</a>
+			  {% endif %}
 			</div>
-
-		</article>
+			<div class="PageNavigationNext">
+			  {% if page.next.url %}
+			    <a class="next" href="{{page.next.url}}">{{page.next.title}} &gt;&gt;</a>
+			  {% endif %}
+			</div>
+		</div>
 
 	</div>
 
