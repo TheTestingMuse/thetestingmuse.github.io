@@ -6,7 +6,7 @@ featured_image: /images/contact.jpeg
 ---
 
 
-<img src="images/posts/ACS_0139-225x300.jpg" alt="Photo of David Williams" style="float:right; width:225px; height:300px;" />
+<img src="images/posts/ACS_0139-225x300.jpg" alt="Photo of David Williams" style="float:right; width:225px; height:300px; margin:10px;" />
 
 Hey, thanks for visiting my website and for wanting to get in touch with me.
 
