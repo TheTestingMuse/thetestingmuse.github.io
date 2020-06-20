@@ -86,6 +86,20 @@
 .footer .socials {
 	margin-top: 25px;
 
+	@include mq(tabletp) {
+		position: absolute;
+		top: 0;
+		right: 0;
+		margin-top: 0;
+	}
+
+	@include mq(tabletl) {
+		position: absolute;
+		top: 0;
+		right: 0;
+		margin-top: 0;
+	}
+
 	@include mq(laptop) {
 		position: absolute;
 		top: 0;
