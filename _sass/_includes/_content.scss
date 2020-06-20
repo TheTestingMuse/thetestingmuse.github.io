@@ -4,21 +4,37 @@
 
 // - - - - - - - - - - - - - - - - - -
 
-.PageNavigation {
+.PageNavigationPrev {
   font-size: $p-small;
   display: block;
-  width: auto;
+  width: 50%;
   overflow: hidden;
+  float: left;
 }
 
-.PageNavigation a {
+.PageNavigationNext {
+  font-size: $p-small;
   display: block;
   width: 50%;
-  float: left;
-  margin: 1em 0;
+  overflow: hidden;
+  float: right;
 }
 
-.PageNavigation .next {
+.PageNavigationPrev a {
+  display: block;
+  width: 50%;
+}
+
+.PageNavigationNext a {
+  display: block;
+  width: 50%;
+}
+
+.PageNavigationPrev .prev {
+  text-align: left;
+}
+
+.PageNavigationNext .next {
   text-align: right;
 }
 
