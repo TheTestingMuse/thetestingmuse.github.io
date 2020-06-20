@@ -8,21 +8,20 @@
   font-size: $p-small;
   display: block;
   width: 100%;
-  overflow: hidden;
   background-color: $white;
 }
 
 .PageNavigationPrev {
   display: block;
   width: 40%;
-  overflow: hidden;
+  overflow: auto;
   float: left;
 }
 
 .PageNavigationNext {
   display: block;
   width: 40%;
-  overflow: hidden;
+  overflow: auto;
   float: right;
 }
 
