@@ -6,7 +6,6 @@
 
 .PageNavigation {
   font-size: $p-small;
-  color: $accent-color;
   display: block;
   width: 100%;
 }
@@ -27,12 +26,14 @@
 
 .PageNavigationPrev .prev {
   display: block;
+  color: $accent-color;
   text-align: left;
   padding: 10px 0 0 10px;
 }
 
 .PageNavigationNext .next {
   display: block;
+  color: $accent-color;
   text-align: right;
   padding: 10px 10px 0 0;
 }
