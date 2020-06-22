@@ -31,12 +31,14 @@ layout: default
 			<br />
 			<div class="PageNavigationPrev">
 			  {% if page.previous.url %}
-			    <a class="prev" href="{{page.previous.url}}">&lt;&lt;&nbsp;{{page.previous.title}}</a>
+					&lt;&lt;<br />
+			    <a class="prev" href="{{page.previous.url}}">{{page.previous.title}}</a>
 			  {% endif %}
 			</div>
 			<div class="PageNavigationNext">
 			  {% if page.next.url %}
-			    <a class="next" href="{{page.next.url}}">{{page.next.title}}&nbsp;&gt;&gt;</a>
+			    &gt;&gt;<br />
+					<a class="next" href="{{page.next.url}}">{{page.next.title}}</a>
 			  {% endif %}
 			</div>
 		</div>
