@@ -2,7 +2,7 @@
 layout: post
 title: A Life of Testing
 subtitle: 17th Aug 2016
-description: ""
+description: "I was obsessed with finding the limitations of the thing! So for me that's my earliest memory of testing and I think a lot of people with testing careers probably have a similar mindset that started WAY before your profession as a tester began?"
 date: 2016-08-17 06:03:00 +01:00
 author: David
 permalink: /blog/a-life-of-testing/

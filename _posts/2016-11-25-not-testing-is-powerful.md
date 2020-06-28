@@ -2,7 +2,7 @@
 layout: post
 title: NOT testing is powerful!
 subtitle: 25th Nov 2016
-description: ""
+description: "As the conversation went on there were a lot of tests he described, that I found to be basically pointless, and it got me thinking about how as professional testers we automatically use our experience, knowledge and heuristics to decide on the best approach and best set of tests/checks to run - from applying every test known to man to no tests at all, with anything in between."
 date: 2016-11-25 08:06:54 +00:00
 author: David
 permalink: /blog/not-testing-is-powerful/
@@ -14,7 +14,7 @@ categories:
 ---
 Recently, at an event, I overheard a conversation between two testers in which one tester was describing some examples he'd apply to an email field.
 
-As the conversation went on there were a lot of "tests" he described, that I found to be basically pointless, and it got me thinking about how as professional testers we automatically use our experience, knowledge and heuristics to decide on the best approach and best set of tests/checks to run  from applying every test known to man to no tests at all, with anything in between.
+As the conversation went on there were a lot of "tests" he described, that I found to be basically pointless, and it got me thinking about how as professional testers we automatically use our experience, knowledge and heuristics to decide on the best approach and best set of tests/checks to run - from applying every test known to man to no tests at all, with anything in between.
 
 The tester in question had used an example of:
 

@@ -2,7 +2,7 @@
 layout: post
 title: The ”Red Rag” Heuristic
 subtitle: 24th Sep 2016
-description: ""
+description: "After the fact, I realised that the intensity of the reaction I'd had (which made me want to investigate desperately) was caused by the assertion itself - it was a statement of believing with absolute fact, with no evidence to back it up, and my experience as a veteran tester immediately disagreed with it being absolute."
 date: 2016-09-24 10:31:00 +01:00
 author: David
 permalink: /blog/red-rag-heuristic/
@@ -26,8 +26,8 @@ My internal response to the assertion was instant, powerful and absolutely 100% 
 
 I time boxed 15 minutes to investigate the issue, started straight away and did indeed find a bug with the system as expected.
 
-After the fact, I realised that the intensity of the reaction I'd had (which made me want to investigate desperately) was caused by the assertion itself  it was a statement of **believing absolute fact with no evidence** to back it up and my experience as a veteran tester immediately disagreed with it being "absolute".
+After the fact, I realised that the intensity of the reaction I'd had (which made me want to investigate desperately) was caused by the assertion itself - it was a statement of **believing with absolute fact, with no evidence** to back it up, and my experience as a veteran tester immediately disagreed with it being "absolute".
 
 And that was the moment my "red rag" heuristic was born:
 
-**"The red rag heuristic"  Having an almost uncontrollable urge to charge straight into a situation with no pre-planning, no thought for the consequences or what effect there will be on other things that require your time or skill.**
+**"The red rag heuristic" - Having an almost uncontrollable urge to charge straight into a situation with no pre-planning, no thought for the consequences or what effect there will be on other things that require your time or skill.**
