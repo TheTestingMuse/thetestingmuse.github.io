@@ -57,7 +57,7 @@ You boot the clean image test machine, clear down cookies and cache and load the
 
 A quick investigation verifies that the image is declared correctly in the code and it exists on the server when the URL is added straight into the navigation bar of the browser so it seems like a rendering issue. Better bug it!
 
-<img src="https://thetestingmuse.uk/wp-content/uploads/2020/01/sherlock-300x300.jpg" alt="Sherlock Holmes" style="float:left; margin-left: 10px; width:30%;"> Except that you reckon you can track down the exact cause of the problem and provide the developer with a load more info than a simple "Banner image on Internet Explorer 10 does not display" bug report.
+<img src="/images/posts/sherlock.jpg" alt="Sherlock Holmes" style="float:left; margin-right: 10px; width:30%;"> Except that you reckon you can track down the exact cause of the problem and provide the developer with a load more info than a simple "Banner image on Internet Explorer 10 does not display" bug report.
 
 You end up spending a further hour figuring out the full problem (the CMS uses a handler that's declaring a different mime-type than the image actually had) and you report the full details. How great is that?
 

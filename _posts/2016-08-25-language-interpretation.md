@@ -14,6 +14,9 @@ categories:
   - Teams
   - Testing
 ---
+
+<img src="/images/posts/pedestrian-crossing.jpeg" alt="Pedestrian Crossing" style="float:right; margin-left: 10px; width:30%;" />
+
 Recently while walking to the shops with my wife and 22 month old son in his buggy, we approached a pedestrian crossing we needed to cross at.
 
 As we approached the crossing my wife noticed that the green man was showing so we'd be able to cross straight away, however as we got to the lights the man turned red; we'd have to wait a little while.

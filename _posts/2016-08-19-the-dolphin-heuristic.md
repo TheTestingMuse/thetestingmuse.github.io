@@ -12,6 +12,9 @@ categories:
   - Testing
   - Thinking
 ---
+
+<img src="/images/posts/dolphins.png" alt="Collection of dolphin gifts" style="float:right; margin-left: 10px; width:30%;" />
+
 My sister LOVES dolphins! She has dolphin statues, dolphin artwork, dolphin toys and even a dolphin table! She's absolutely obsessed with them!
 
 Except that I recently found out she hates them‚ **HATES** them!
