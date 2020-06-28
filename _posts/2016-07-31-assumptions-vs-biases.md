@@ -15,7 +15,7 @@ categories:
 ---
 # Assumptions vs Biases
 
-On Wednesday of last week the Software Testing Clinic held yet another excellent event in London; this time at the Thoughtworks offices in the West End (I \*love\* your London office space Thoughtworks!) and the topic this month was Exploratory Testing.
+On Wednesday of last week the Software Testing Clinic held yet another excellent event in London; this time at the Thoughtworks offices in the West End (I *love* your London office space Thoughtworks!) and the topic this month was Exploratory Testing.
 
 During the clinic there was a lot of discussion as you'd imagine from a room of extremely intelligent and passionate testers and on one subject I made a comment along the lines of:
 
@@ -23,7 +23,7 @@ During the clinic there was a lot of discussion as you'd imagine from a room of 
 
 At that point I was _(correctly!)_ questioned on that assertion by my friend [Tony Bruce](https://twitter.com/tonybruce77) on why I think one is positive and one negative.
 
-_\*cue mind melt in front of the whole group\*_
+*cue mind melt in front of the whole group*
 
 I felt 100% that a bias is a bad thing that serves no purpose in the mind of an exploratory tester but I couldn't articulate why. I also knew that, generally speaking, the thought of assumptions doesn't give me anywhere near the type of negative reaction than the thought of a bias does, but again I couldn't explain why. So I did the best thing I could; I stopped to question my opinion and whether it was actually an assumption or bias about assumptions and biases. 🙂
 

@@ -24,19 +24,19 @@ You can modify or manipulate the theme. You can combine the theme with other wor
 
 ## What you CAN'T do with the theme
 
-You can’t Sell the End Product, except to one client. (If you or your client want to Sell the End Product, you will need an Extended License – send an email to hello@jekyllthemes.io to discuss this with us.)
+You can't Sell the End Product, except to one client. (If you or your client want to Sell the End Product, you will need an Extended License – send an email to hello@jekyllthemes.io to discuss this with us.)
 
-You can’t re-distribute the theme as stock, in a tool or template, or with source files. You can’t do this with the theme either on its own or bundled with others, and even if you modify the theme. You can’t re-distribute or make available the theme as-is or with superficial modifications. These things are not allowed even if the re-distribution is for Free.
+You can't re-distribute the theme as stock, in a tool or template, or with source files. You can't do this with the theme either on its own or bundled with others, and even if you modify the theme. You can't re-distribute or make available the theme as-is or with superficial modifications. These things are not allowed even if the re-distribution is for Free.
 
-For example: You can’t purchase the theme, convert it to a WordPress theme and sell or give it to more than one client. You can’t license the theme and then make it available as-is on your website for your users to download.
+For example: You can't purchase the theme, convert it to a WordPress theme and sell or give it to more than one client. You can't license the theme and then make it available as-is on your website for your users to download.
 
-You can’t use the theme in any application allowing an end user to customise a digital or physical product to their specific needs, such as an “on demand”, “made to order” or “build it yourself” application. You can use the theme in this way only if you purchase a separate license for each final product incorporating the theme that is created using the application.
+You can't use the theme in any application allowing an end user to customise a digital or physical product to their specific needs, such as an “on demand”, “made to order” or “build it yourself” application. You can use the theme in this way only if you purchase a separate license for each final product incorporating the theme that is created using the application.
 
 ---
 
 ## Other license terms
 
-Some components of the theme are sourced by the author from elsewhere and different license terms may apply to the component, such as someone else’s license or an open source or creative commons license. The other license will apply to that component instead of this license. This license will apply to the rest of the theme.
+Some components of the theme are sourced by the author from elsewhere and different license terms may apply to the component, such as someone else's license or an open source or creative commons license. The other license will apply to that component instead of this license. This license will apply to the rest of the theme.
 
 You can only use the theme for lawful purposes.
 

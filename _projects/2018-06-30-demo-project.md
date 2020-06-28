@@ -14,7 +14,7 @@ This page is a demo that shows everything you can do inside portfolio and blog p
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+**Obviously,** we've styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 You can create lists:
 
@@ -30,7 +30,7 @@ And:
 
 You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it's worth it in the end because once you get there, you can move mountains.”
 
 The theme also supports markdown tables:
 
@@ -91,7 +91,7 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 
 ### What about videos?
 
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
+Videos are an awesome way to show off your work in a more engaging and personal way, and we've made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
 
 <iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
