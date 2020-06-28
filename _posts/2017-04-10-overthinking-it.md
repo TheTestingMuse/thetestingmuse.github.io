@@ -2,7 +2,7 @@
 layout: post
 title: Overthinking it (I can, therefore I will!)
 subtitle: 10th Apr 2017
-description: "... as testers it's very easy for us to get carried away with our work, over-think the task at hand and produce **less value** to the long term project targets in favour of short term value to that single task."
+description: "... as testers it's very easy for us to get carried away with our work, over-think the task at hand and produce *less value* to the long term project targets in favour of short term value to that single task."
 date: 2017-04-10 08:38:35 +01:00
 author: David
 permalink: /blog/overthinking-it/

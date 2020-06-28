@@ -49,7 +49,7 @@ For my first ever full-length conference speaking slot, I was flown to Johannesb
 
 Test Bash Brighton (Apr 2019)
 I travelled down to Brighton, UK to share my Mental Health in Testing talk.
-TestBash Brighton was the first conference I ever attended, back in 2015 so it was an honour to have been asked to speak there.[Click Here](https://www.ministryoftesting.com/dojo/series/it-s-ok-testbash-talks-mental-health/lessons/mental-health-as-a-tester-david-williams)
+TestBash Brighton was the first conference I ever attended, back in 2015 so it was an honour to have been asked to speak there. [Sign-up FREE to see my talk](https://www.ministryoftesting.com/dojo/series/it-s-ok-testbash-talks-mental-health/lessons/mental-health-as-a-tester-david-williams)
 
 Romanian Testing Conference (Jun 2019)
 I was flown to Romania to talk about my experience with Mental Health in Testing, during my first ever visit to Romania.
