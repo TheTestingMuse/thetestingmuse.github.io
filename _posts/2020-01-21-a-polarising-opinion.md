@@ -14,7 +14,7 @@ How many of you drive a car?
 
 And when it's sunny, you likely wear sunglasses, right? Maybe polarised ones to benefit from additional UV blocking?
 
-<img src="images/posts/polarised.jpeg" alt="Dark spots in car window" style="float:right; margin-left: 10px; width:30%;" />
+<img src="/images/posts/polarised.jpeg" alt="Dark spots in car window" style="float:right; margin-left: 10px; width:30%;" />
 
 And have you ever noticed, while driving, and wearing your polarised sunglasses, the dark spotting in some of your car windows?
 
