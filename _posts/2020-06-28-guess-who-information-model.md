@@ -2,7 +2,7 @@
 layout: post
 title: Guess Who! An Information Model example
 subtitle: 28th Jun 2020
-description: "... And so you see that investigation, and analysis, and critical thinking all enable us to make decisions on our next action, until we have enough confidence (acceptance of risk) that we want to follow the next stage of the game - Using our Expectations to Verify that our guess it correct."
+description: "... And so you see that investigation, analysis, and critical thinking all enable us to make decisions on our next action, until we have enough confidence (acceptance of risk) that we want to follow the next stage of the game..."
 date: 2020-06-28 16:31:00 +00:00
 author: David
 permalink: /blog/guess-who-information-model/
