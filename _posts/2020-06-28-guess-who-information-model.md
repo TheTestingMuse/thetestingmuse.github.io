@@ -79,11 +79,13 @@ And so on...
 
 And so you see that investigation, and analysis, and critical thinking all enable us to make decisions on our next action, until we have enough confidence (acceptance of risk) that we want to follow the next stage of the game - Using our Expectations to Verify that our guess is correct.
 
+--
+
 As a software development team, we should be creating Information Models on our work. We should be investigating and asking questions, to build our understanding of the task in hand. The more knowledge we have, the more confidence in the solution we might have. We might uncover risks, assumptions, information, things we knew, things we didn't know, things that might be beneficial, or a hindrance; there are **many** things we can uncover, which the team can use to create the right solution for the problem.
 
 As information is discovered, we can feed that information back into the "Investigation" to uncover more information, or if information has lead to Expectations, we can feed those into our "Verification" bubble to verify that those expectations are met.
 
-We continue this cycle until we have an **acceptance of the risks** with the feature we are modelling. Or until we feel that the quality of the feature is _good enough_
+We continue this cycle until we have an **acceptance of the risks** with the feature we are modelling. Or until we feel that the quality of the feature is _good enough_.
 
 --
 
