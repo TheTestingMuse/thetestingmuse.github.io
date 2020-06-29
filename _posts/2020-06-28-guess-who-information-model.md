@@ -13,6 +13,8 @@ categories:
 
 <img src="/images/posts/GuessWho.jpg" alt="Guess Who game" style="float:right; margin-left: 10px; width:50%;" />
 
+## Guess Who?
+
 When I was a kid, I owned a game called Guess Who (pictured right).
 
 The idea of the game was simple:
@@ -26,7 +28,7 @@ The game rules were also simple:
 - If a player **successfully guesses** their opponents character, **they win**.
 - If their guess is **wrong, they lose**.
 
-So, why am I reminding you of this random childhood game? Well, the game is an ideal example of the _Investigation_ part of [Dan Ashby](https://mobile.twitter.com/DanAshby04)’s [Information Model](https://danashby.co.uk/2016/03/08/information-and-its-relationship-with-testing-and-checking/), and a great way to explain the process of Testing, to non-testers.
+## Guess What?
 
 <img src="/images/posts/InformationModel-Stage1.jpg" alt="Information Model Stage 1" style="float:right; margin-left: 10px; width:50%;" />
 
@@ -79,7 +81,9 @@ And so on...
 
 And so you see that investigation, and analysis, and critical thinking all enable us to make decisions on our next action, until we have enough confidence (acceptance of risk) that we want to follow the next stage of the game - Using our Expectations to Verify that our guess is correct.
 
---
+## Guess Why?
+
+So, why am I reminding you of this random childhood game? Well, the game is an ideal example of the _Investigation_ part of [Dan Ashby](https://mobile.twitter.com/DanAshby04)’s [Information Model](https://danashby.co.uk/2016/03/08/information-and-its-relationship-with-testing-and-checking/), and a great way to explain the process of Testing, to non-testers.
 
 As a software development team, we should be creating Information Models on our work. We should be investigating and asking questions, to build our understanding of the task in hand. The more knowledge we have, the more confidence in the solution we might have. We might uncover risks, assumptions, information, things we knew, things we didn't know, things that might be beneficial, or a hindrance; there are **many** things we can uncover, which the team can use to create the right solution for the problem.
 
@@ -87,7 +91,7 @@ As information is discovered, we can feed that information back into the "Invest
 
 We continue this cycle until we have an **acceptance of the risks** with the feature we are modelling. Or until we feel that the quality of the feature is _good enough_.
 
---
+## Guess How?
 
 How would you have played Guess Who if you could guess every turn without forfeit?
 Would you guess more often?
@@ -101,5 +105,3 @@ Or how about if the questions asked could be answered with:
 - No
 - Maybe
 - I refuse to answer
-
-?
