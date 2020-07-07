@@ -44,7 +44,7 @@ So what can we do about it?
 
 Well a while before last year's version of this post, I read an article about the brain retaining information better if it's written down by hand, rather than just reading on a screen, or trying to remember it, so I embarked on an adventure to bring back writing, drawing, and doodling to my daily work.
 
-<img src="/images/posts/PBoP-200x300.jpeg" alt="Example entries for a Personal Book of Positivity" style="float:right; margin-left: 10px; width:50%;" />
+<img src="/images/posts/PBoP-200x300.jpeg" alt="Example entries for a Personal Book of Positivity" style="float:right; margin-left: 10px; width:200px;" />
 
 So my process was simply this:
 1. I bought a pocket notebook.
