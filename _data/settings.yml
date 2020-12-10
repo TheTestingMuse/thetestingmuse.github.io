@@ -14,8 +14,6 @@ menu_settings:
       url: '/about'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Contact'
-      url: '/contact'
 
 footer_settings:
   footer_tagline: A source for inspired testing information.
@@ -25,12 +23,6 @@ hero_settings:
 
 post_settings:
   grid_spacing: 10
-
-contact_settings:
-  form_action: 'https://formspree.io/xgenzlkb'
-  confirmation_url: '/thanks'
-  email_subject: 'Email from thetestingmuse.uk'
-  send_button_text: 'Post message'
 
 social_settings:
   twitter_url: 'https://twitter.com/TheTestingMuse'
