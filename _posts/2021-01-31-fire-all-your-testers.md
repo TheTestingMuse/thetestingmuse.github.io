@@ -24,8 +24,9 @@ Normally I take Paul McGee's advice on them, and I [S.U.M.O](https://www.thesumo
 We moved into our current home in early 2019 as first time buyers, and of course there were many things we needed to fix, clean, decorate and update. One of those things was the garden, which was overgrown, had a pond in the middle of it, had half dead grass, a decrepit and rotten shed husk at the end of it, and a rotten and broken mish-mash of fencing.
 
 With spring only a few months away, we decided to improve it. Over several months, into summer, here's what we did:
-- I smashed and removed a concrete pathway running the full length of the garden
-- I ripped-up the old mossy grass
+- We drained the old pond and filled it in for safety around the children
+- I smashed and removed a concrete pathway running the full length of the garden to give us a wider garden to work with
+- I ripped-up the old mossy grass to replace it
 - We cleared junk from the end of the garden, including a rotten pile of wood that resembled an old shed 
 - We created a flower bed border
 - I created a railway sleeper flower bed, the length of the area we wanted artificial turf
@@ -35,7 +36,7 @@ With spring only a few months away, we decided to improve it. Over several month
 - I ordered and built a 6x4 wooden shed for storage
 - We ordered and built a rattan seating area with parasol
 - I ordered and built some outdoor bin storage
-- I ordered and built a climbing pyramid area for the kids, and put down wood chip for safety
+- I ordered and built a 6ft climbing pyramid area for the kids, and put down wood chip for safety
 
 Then it came to tackling the fencing. Our fence drops by around 30cm across the length of the section that needed replacing, and was something I'd not done before, plus something which I felt had a high risk of a low quality result if I'd tackled it myself (despite having done all of the above).
 
