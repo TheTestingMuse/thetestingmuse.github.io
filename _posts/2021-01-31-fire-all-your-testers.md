@@ -6,7 +6,7 @@ description: "... If you're confident that your engineers are doing work to a st
 date: 2021-01-31 10:31:57 +01:00
 author: David
 permalink: /blog/fire-all-your-testers/
-featured\_image: /images/posts/fired.jpg
+featured_image: /images/posts/fired.jpg
 categories:
   - People
   - Community
