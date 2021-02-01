@@ -2,7 +2,7 @@
 layout: post
 title: Fire all your testers?
 subtitle: 31st Jan 2021
-description: "... …”
+description: "... If you’re confident that your engineers are doing work to a standard where the risks to their work are low enough for your risk appetite, and you’re happy for them to learn quality and testing practices on the job, I sincerely see no reason for you to have quality folks on your team..."
 date: 2021-01-31 10:31:57 +01:00
 author: David
 permalink: /blog/fire-all-your-testers/
@@ -15,9 +15,9 @@ categories:
 ---
 # Fire all your testers?
 
-Over the last few years I’ve seen many blog posts, tweets and talks about companies getting rid of their Testers, or specifically people who have purely a testing skillset. Normally I take Paul McGee’s advice on them, and I [S.U.M.O][1], but I also recently read a couple of blog posts by [Jesper Ottosen][2] ([https://jlottosen.wordpress.com/2021/01/25/the-testing-not-the-testers/][3]) and another by [Maaret Pyhäjärvi][4] ([https://visible-quality.blogspot.com/2021/01/having-testers-makes-quality-worse.html][5]) both of which address the main arguments many others don’t, and I felt like I should share my own view on the subject.
+Over the last few years I’ve seen many blog posts, tweets and talks about companies getting rid of their Testers, or specifically people who have purely a testing skillset. Normally I take Paul McGee’s advice on them, and I [S.U.M.O](https://www.thesumoguy.com/), but I also recently read a couple of blog posts by [Jesper Ottosen](https://jlottosen.wordpress.com/2021/01/25/the-testing-not-the-testers/) and another by [Maaret Pyhäjärvi](https://visible-quality.blogspot.com/2021/01/having-testers-makes-quality-worse.html) both of which address the main arguments many others don’t, and I felt like I should share my own view on the subject.
 
-## Let me start with an analogy…
+## Let me start with an analogy...
 
 We moved into our current home in early 2019 as first time buyers, and of course there were many things we needed to fix, clean, decorate and update. One of those things was the garden, which was overgrown, had a pond in the middle of it, had half dead grass, a decrepit and rotten shed husk at the end of it, and a rotten and broken mish-mash of fencing.
 
@@ -48,19 +48,19 @@ One way to do that was to pay for the expertise of someone with many years of ex
 
 **I hired a professional to replace the fence.**
 
-Would I have hired an expert, if I had the training or experience myself, to mitigate the perceived risks sufficiently? Not even remotely! If I knew that I could perform that task to a standard of “good enough”, I’d have accepted the risks, as they’d have been lower, and I’d have saved myself a big chunk of money doing so!
+Would I have hired an expert, if I had the training or experience myself, to mitigate the perceived risks sufficiently? Not even remotely! If I knew that I could perform that task to a standard of "good enough", I’d have accepted the risks, as they’d have been lower, and I’d have saved myself a big chunk of money doing so!
 
 ## So, what does this have to do with testers and testing?
 
 Well let’s imagine that my garden fence is some software to be written, and that there are two teams both tackling that same task, both with the same team makeup (no Quality Expert on either team), and both with the same tech/tooling at the same time:
 
 **Team A**
-Team A are a traditional “waterfall” engineering team. Until recently they had a Quality Engineer who would write automated checks against everything that was defined by the Project Manager, Picked up and developed by the Developers and marked as “Ready for QA”. They would write some “end to end” checks to confirm the Acceptance Criteria, in a suite that ran before things went to production, and then they would pick up the next ticket to do the same with. The team’s QE eventually decided to seek a different opportunity, and they left the business.
+Team A are a traditional "waterfall" engineering team. Until recently they had a Quality Engineer who would write automated checks against everything that was defined by the Project Manager, Picked up and developed by the Developers and marked as "Ready for QA". They would write some "end to end" checks to confirm the Acceptance Criteria, in a suite that ran before things went to production, and then they would pick up the next ticket to do the same with. The team’s QE eventually decided to seek a different opportunity, and they left the business.
 
 This team have very little training or experience of Quality, Testing, or Checking practices.
 
 **Team B**
-Team B are a more “Agile” engineering team. Until recently they too had a Quality Engineer.
+Team B are a more "Agile" engineering team. Until recently they too had a Quality Engineer.
 
 Their Quality Engineer would be involved from the very start, asking questions about the context and value of the work, about the metrics driving the work, about the risks to the work (and _from_ the work), about dependencies, how it should be tested, what type of automated checking would make sense, and how they could help the engineers understand those decisions, and how to add that checking to the right place for the shortest feedback loops, and fastest confidence levels.
 
@@ -94,16 +94,10 @@ _They may not learn as quickly_ as having an expert on the team to help and teac
 
 ## So, fire all our testers, then?
 
-If you’re confident that your engineers are doing work to a standard where the risks to their work are low enough for your risk appetite, and you’re happy for them to learn quality and testing practices “on the job”, I sincerely see no reason for you to have quality folks on your team.
+If you’re confident that your engineers are doing work to a standard where the risks to their work are low enough for your risk appetite, and you’re happy for them to learn quality and testing practices "on the job", I sincerely see no reason for you to have quality folks on your team.
 
-Having said the above, I’ve not worked on/with any team even _close_ to that level of quality focus in my 18 years in the quality/testing industry. Every single role I’ve held, from “Tester” to “Head of Quality Engineering” and everything in between has been in companies and engineering functions where Quality Experts were **absolutely essential** to the work being done, when taking into account the associated risks.
+Having said the above, I’ve not worked on/with any team even _close_ to that level of quality focus in my 18 years in the quality/testing industry. Every single role I’ve held, from "Tester" to "Head of Quality Engineering" and everything in between has been in companies and engineering functions where Quality Experts were **absolutely essential** to the work being done, when taking into account the associated risks.
 
-_Can_ you fire all your testers? Sure…
+_Can_ you fire all your testers? Sure...
 
 _Should_ you fire all your testers? Probably not!
-
-[1]:	https://www.thesumoguy.com/ "S.U.M.O"
-[2]:	https://twitter.com/jlottosen "Jesper Ottosen"
-[3]:	https://jlottosen.wordpress.com/2021/01/25/the-testing-not-the-testers/
-[4]:	https://visible-quality.blogspot.com/2021/01/having-testers-makes-quality-worse.html "Maaret Pyhäjärvi"
-[5]:	https://visible-quality.blogspot.com/2021/01/having-testers-makes-quality-worse.html
