@@ -56,13 +56,13 @@ Would I have hired an expert, if I had the training or experience myself, to mit
 
 Well let's imagine that my garden fence is some software to be written, and that there are two teams both tackling that same task, both with the same team makeup (no Quality Expert on either team), and both with the same tech/tooling at the same time:
 
-**Team A**
+### Team A
 
 Team A are a traditional "waterfall" engineering team. Until recently they had a Quality Engineer who would write automated checks against everything that was defined by the Project Manager, Picked up and developed by the Developers and marked as "Ready for QA". They would write some "end to end" checks to confirm the Acceptance Criteria, in a suite that ran before things went to production, and then they would pick up the next ticket to do the same with. The team's QE eventually decided to seek a different opportunity, and they left the business.
 
 This team have very little training or experience of Quality, Testing, or Checking practices.
 
-**Team B**
+### Team B
 
 Team B are a more "Agile" engineering team. Until recently they too had a Quality Engineer.
 
