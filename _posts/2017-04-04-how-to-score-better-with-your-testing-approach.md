@@ -13,9 +13,9 @@ categories:
 ---
 # Fore! How to score better with your testing approach
 
-Recently I did an extremely nervous 99 second talk at [TestBash](https://dojo.ministryoftesting.com/events/testbash-brighton-2017) in Brighton in which I compared golf to testing:
+Recently I did an extremely nervous 99 second talk at [TestBash Brighton 2017](https://dojo.ministryoftesting.com/events/testbash-brighton-2017) in Brighton in which I compared golf to testing:
 
-https://dojo.ministryoftesting.com/lessons/99-second-talks-testbash-brighton-2017
+[TestBash 2017 99 Second Talks](https://dojo.ministryoftesting.com/lessons/99-second-talks-testbash-brighton-2017)
 
 Now I know golf is a rather dull subject to many people who may have never played it so I’ll try not to bore you all too much.
 
