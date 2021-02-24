@@ -29,7 +29,7 @@ I only met Aubrey a few short months ago but in that time she’s inspired me to
 ## @Deborah_Reid19
 
 [@DeborahLee89](https://twitter.com/deborah_reid19)
-Deborah is a consummate test engineer, self-motivated and has a keen eye for identifying improvements in processes or the way teams work. Her passion for her craft is infectious and it’s clear that she will be a [#WomenInTech](https://twitter.com/hashtag/womenintech)  trailblazer in the not-too-distant future. My inspiration from Deborah is an unwavering drive for quality. You’re truly an inspiration, so never forget that [@DeborahLee89](https://twitter.com/deborahlee89). #ExploratoryTesting #Quality #Modesty #Passion
+Deborah is a consummate test engineer, self-motivated and has a keen eye for identifying improvements in processes or the way teams work. Her passion for her craft is infectious and it’s clear that she will be a [#WomenInTech](https://twitter.com/hashtag/womenintech)  trailblazer in the not-too-distant future. My inspiration from Deborah is an unwavering drive for quality. You’re truly an inspiration, so never forget that [@DeborahLee89](https://twitter.com/deborah_reid19). #ExploratoryTesting #Quality #Modesty #Passion
 
 ## @testobsessed
 
