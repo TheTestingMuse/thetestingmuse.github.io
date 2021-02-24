@@ -2,7 +2,7 @@
 layout: post
 title: International Women’s Day 2018
 subtitle: 14th March 2018
-description: "... If you're confident that your engineers are doing work to a standard where the risks to their work are low enough for your risk appetite, and you're happy for them to learn quality and testing practices on the job, I sincerely see no reason for you to have quality folks on your team..."
+description: "... Across ALL industries around the world we are surrounded by amazing women and it’s our responsibility to stand up and remind people of that fact, as often as possible, and as passionately as possible. Let’s #PressForProgress..."
 date: 2018-03-14 12:00:00 +01:00
 author: David
 permalink: /blog/international-womens-day-2018/
