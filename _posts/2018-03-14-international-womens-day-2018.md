@@ -6,7 +6,7 @@ description: "... If you're confident that your engineers are doing work to a st
 date: 2018-03-14 12:00:00 +01:00
 author: David
 permalink: /blog/international-womens-day-2018/
-featured_image: /images/posts/internationalwomensday.jpg
+featured_image: /images/posts/internationalwomensday.png
 categories:
   - People
   - Community
