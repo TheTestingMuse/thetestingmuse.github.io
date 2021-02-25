@@ -6,7 +6,7 @@ description: "... Across ALL industries around the world we are surrounded by am
 date: 2018-03-14 12:00:00 +01:00
 author: David
 permalink: /blog/international-womens-day-2018/
-featured_image: /images/posts/internationalwomensday.png
+featured_image: /images/posts/internationalwomensday.jpg
 categories:
   - People
   - Community
