@@ -37,6 +37,7 @@ Except that actually **nobody uses one club all the time** because at the very b
 I’ve met testers who use one set of browser developer tools and never try others (even berating others without trying them!)
 
 I’ve met testers who have a certain tool choice for tracking their exploratory test coverage, and they _never_ look into other possibilities:
+
 * Who will be reading the report? What would they prefer?
 * Is a notepad doc sufficient, useful and logical for others to read?
 * Would Rapid Reporter give the notes more structure?

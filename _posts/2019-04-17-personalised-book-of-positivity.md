@@ -28,11 +28,11 @@ Like the vast majority of software professionals (especially testers!) I find my
 
 My mind takes paths like:
 
-  * “I don't agree, but I'll stay quiet as they probably know better than I do” (lack of confidence)
-  * “Why do I bother?” (frustration)
-  * “I'm not being listened to.” (not feeling integral to your team)
-  * “You think I can do (x) well enough to do a talk on it, but I'm not really sure” (imposter syndrome)
-  * “I've had little sleep, a frustrating commute, the coffee machine is broken and I'm generally feeling a bit 'meh' about today” (short-term dip in happiness)
+* “I don't agree, but I'll stay quiet as they probably know better than I do” (lack of confidence)
+* “Why do I bother?” (frustration)
+* “I'm not being listened to.” (not feeling integral to your team)
+* “You think I can do (x) well enough to do a talk on it, but I'm not really sure” (imposter syndrome)
+* “I've had little sleep, a frustrating commute, the coffee machine is broken and I'm generally feeling a bit 'meh' about today” (short-term dip in happiness)
 
 In those types of circumstance, I've found that a short “pep talk” from family or friends helps to shift that negative feeling away somewhat. Often, though, those pep talks have _no specific understanding or context_ around the issue you're experiencing — it's _definitely_ nice to hear, but also somewhat of a platitude which leads to questioning whether their feedback is useful.
 
@@ -47,6 +47,7 @@ Well a while before last year's version of this post, I read an article about 
 <img src="/images/posts/PBoP-200x300.jpeg" alt="Example entries for a Personal Book of Positivity" style="float:right; margin-left: 10px; width:200px;" />
 
 So my process was simply this:
+
 1. I bought a pocket notebook.
 2. On my mobile, I wrote down **any** positive work feedback which made me smile, or feel good about the work I do, _as soon as possible_ after it occurred (voice dictation or Siri is great for that!)
 3. On weekends, I copied into my physical notebook anything I'd noted down during the week.
@@ -57,10 +58,10 @@ I break out my “_Personalised Book of Positivity_” (PBoP) to remind myself o
 
 Some ideas on other uses for the notebook may include things like:
 
-  * Morning pre-work positivity boost - Read the book for 5 minutes on your commute.
-  * Overcoming a negative morning - Break out the book and read it while relaxing with a coffee.
-  * Upcoming business meeting / interview - Break out the book!
-  * Having trouble conveying thoughts or feelings you need to verbalise in a conference talk - Grab your book!
+* Morning pre-work positivity boost - Read the book for 5 minutes on your commute.
+* Overcoming a negative morning - Break out the book and read it while relaxing with a coffee.
+* Upcoming business meeting / interview - Break out the book!
+* Having trouble conveying thoughts or feelings you need to verbalise in a conference talk - Grab your book!
 
 I'm sure there are plenty more uses for the notebook you can think of; be creative!
 
@@ -70,19 +71,19 @@ Well I guess that answer is _entirely personal_ to you, in your context; what in
 
 If you're still struggling though, here's what I include in mine:
 
-  * Who the feedback was from
-  * Month + Year
-  * Task/Project/Reason for the feedback (if relevant)
+* Who the feedback was from
+* Month + Year
+* Task/Project/Reason for the feedback (if relevant)
 
 Your '_notebook_' doesn't have to be physical of course as there are plenty of other methods of recording and recalling your positive feedback. I could leave all mine in Things3, but I prefer the act of writing it down to help cement that positivity in my mind.
 
 You might choose some other method though:
 
-  * A tasks app like Things3, Todoist, Nozbe, Reminders etc
-  * A notes app like Bear, Notability, Good Notes, Evernote, OneNote, Notes etc
-  * A “Positivity” email folder you forward or write emails to
-  * GitHub
-  * Text or .md Files
+* A tasks app like Things3, Todoist, Nozbe, Reminders etc
+* A notes app like Bear, Notability, Good Notes, Evernote, OneNote, Notes etc
+* A “Positivity” email folder you forward or write emails to
+* GitHub
+* Text or .md Files
 
 The main thing is to have easy, instant access to your PBoP when you need it. The _format_ doesn't really matter; what matters is _the info you put inside_, how that info makes you feel when you read it, and then applying those feelings when needed.
 

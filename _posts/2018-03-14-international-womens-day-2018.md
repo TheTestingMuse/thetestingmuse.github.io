@@ -56,7 +56,6 @@ Maaret is inspirational when it comes to advocating the benefits of pairing and 
 [@Tweet_Cassandra](https://twitter.com/tweet_cassandra)
 The first time I met Cassandra was almost a year ago to the day, at UKStar conference in London. She was talking about Hiring and Getting Hired as a tester. Her enthusiasm for me was inspiring, as was her confidence and delivery. Being relatively junior in the realms of testing but having a great knowledge, enthusiasm for the craft and wanting to meet and engage with people made me want to overcome my natural quietness around people and be more confident so I now go out of my way to force myself into conversations and public speaking. Thank you  [@Tweet_Cassandra](https://twitter.com/tweet_cassandra) #PublicSpeaking #Blogging #Bravery
 
-
 Across **ALL** industries around the world we are surrounded by amazing women and it’s our responsibility to stand up and remind people of that fact, as often as possible, and as passionately as possible.
 
 Let’s #PressForProgress
