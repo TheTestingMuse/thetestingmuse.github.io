@@ -64,7 +64,7 @@ Please read these excellent resources:
 
 - [The Tech She Can Charter - PwC UK](https://www.pwc.co.uk/who-we-are/women-in-technology/tech-she-can-charter.html)
 - [Black Girls Code](https://www.blackgirlscode.com/)
-- [Diversity in Tech | Promoting Diversity and Inclusion in Technology](https://www.diversityintech.co.uk/)
+- [Diversity in Tech - Promoting Diversity and Inclusion in Technology](https://www.diversityintech.co.uk/)
 
 ### Code of Conduct
 
