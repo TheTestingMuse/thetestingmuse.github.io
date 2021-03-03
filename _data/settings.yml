@@ -12,6 +12,8 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
+    - title: 'Rider'
+      url: '/rider'
     - title: 'Blog'
       url: '/blog/'
 
