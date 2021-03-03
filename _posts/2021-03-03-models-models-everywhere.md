@@ -131,6 +131,9 @@ Use all that information to create **YOUR** version of the Ikigai model, and fin
 
 _EDIT: Even my own perception of the priorities in my model above was completely different to my wife’s view of my priorities (she was correct, so the model now reflects those figures) - Another superb example of the fluidity and context of life._
 
+<br>
+<br>
+
 ## TL;DR
 
 1. Models can be a useful starting point, or guide
