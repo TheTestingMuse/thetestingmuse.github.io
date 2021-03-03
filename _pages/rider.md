@@ -96,7 +96,7 @@ Higher profile engagements like Keynotes, or more labour-intensive sessions like
 
 A Keynote is a high-profile and impactful piece of work. There is a lot of preparation work, slide design and content, practice, timing and adjustment to deliver the result you want.
 
-My Keynote fee is £100, plus travel and accommodation (see: Not "pay to speak")
+My Keynote fee is £200, plus travel and accommodation (see: Not "pay to speak")
 
 #### Workshops
 
