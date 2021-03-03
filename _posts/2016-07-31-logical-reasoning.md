@@ -12,8 +12,6 @@ categories:
   - Logic
   - Testing
 ---
-# Logical Reasoning
-
 Recently on Twitter, [Ben Simo](https://twitter.com/qualityfrog) posted an interesting photo of a set of road markings at the entrance to a driveway/car park, with the question, "Is this an entrance or an exit?":
 
 <img src="/images/posts/roadmarkings.jpg" alt="Confusing Road Markings" style="float:right; margin-left: 10px; width:30%;" />

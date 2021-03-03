@@ -13,8 +13,6 @@ categories:
   - Testing
   - Team Quality
 ---
-# Fire all your testers?
-
 Over the last few years I've seen many blog posts, tweets and talks about companies getting rid of their Testers, or specifically people who have purely a testing skillset.
 
 Normally I take Paul McGee's advice on them, and I [S.U.M.O](https://www.thesumoguy.com/), but I also recently read a couple of blog posts by [Jesper Ottosen](https://jlottosen.wordpress.com/2021/01/25/the-testing-not-the-testers/) and another by [Maaret Pyhäjärvi](https://visible-quality.blogspot.com/2021/01/having-testers-makes-quality-worse.html) both of which address the main arguments many others don't, and I felt like I should share my own view on the subject.
