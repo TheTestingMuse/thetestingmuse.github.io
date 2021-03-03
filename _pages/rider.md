@@ -54,7 +54,7 @@ For any events confirmed after the following date (the last update date for this
 
 ### Diversity, Inclusion & Equity
 
-**An event will have a minimum of 30% women speakers**
+**An event will have a minimum of 30% gender-diverse speakers**
 **An event will have several speakers from ethnic minorities**
 **An event will have at least one first time speaker**
 
