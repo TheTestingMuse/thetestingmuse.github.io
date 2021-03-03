@@ -127,7 +127,7 @@ Learn about yourself! Learn what your levels are. Learn what drives you and what
 
 Use all that information to create **YOUR** version of the Ikigai model, and find something that truly gives you a "reason for being"
 
-<img src="/images/posts/MyIkigai.png" alt="Diagram of the author's Ikigai Model" style="float:left; margin-right: 10px; width:30%;" />
+<img src="/images/posts/MyIkigai.png" alt="Diagram of the author's Ikigai Model" style="float:left; margin-right: 10px; width:50%;" />
 
 _EDIT: Even my own perception of the priorities in my model above was completely different to my wife’s view of my priorities (she was correct, so the model now reflects those figures) - Another superb example of the fluidity and context of life._
 
