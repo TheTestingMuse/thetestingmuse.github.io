@@ -54,9 +54,9 @@ For any events confirmed after the following date (the last update date for this
 
 ### Diversity, Inclusion & Equity
 
-**An event will have a minimum of 30% gender-diverse speakers**
-**An event will have several speakers from ethnic minorities**
-**An event will have at least one first time speaker**
+- **An event will have a minimum of 30% gender-diverse speakers**
+- **An event will have several speakers from ethnic minorities**
+- **An event will have at least one first time speaker**
 
 I'm passionate about Diversity, Inclusion and Equity, and I want to play my part in shifting the focus onto folks who should _already_ have that focus anyway, but don't!
 
@@ -68,13 +68,13 @@ Please read these excellent resources:
 
 ### Code of Conduct
 
-**An event will have a documented Code of Conduct**
+- **An event will have a documented Code of Conduct**
 
 This will be published online for all potential attendees, and distributed to attendees who have booked tickets. It will detail the expectations of attendees, and how folks can seek help if needed.
 
 ### Not "pay to speak"
 
-**An event will cover travel costs (flights, taxis, buses, trains, ferries) and accommodation for ALL speakers**
+- **An event will cover travel costs (flights, taxis, buses, trains, ferries) and accommodation for ALL speakers**
 
 If an event leaves a speaker out of pocket in any way, it is a "pay to speak" conference. That could be anything from not covering taxis to the airport, not providing meals etc right up to not paying for flights/accommodation.
 
@@ -82,13 +82,13 @@ Speakers spent a lot of time and effort in creating quality talks and workshops,
 
 ### Max attendance limits
 
-**The number of attendees in a workshop or tutorial is decided by me**
+- **The number of attendees in a workshop or tutorial is decided by me**
 
 When it comes to understanding the maximum number of attendees at a workshop or tutorial _in order to still provide them with a valuable time_, I understand my course better than anybody else. I'll know how many people should be the maximum for the event and we can discuss that before any contracts are signed be on the same page.
 
 ### Fees for effort
 
-**An event will offer remuneration for workshops, tutorials and keynotes**
+- **An event will offer remuneration for workshops, tutorials and keynotes**
 
 Higher profile engagements like Keynotes, or more labour-intensive sessions like Workshops or Tutorials naturally take a _lot_ more preparation time.
 
