@@ -31,7 +31,7 @@ So why do so many people take a model and try to apply it to their situation, wi
 
 A _great_ example here is the Test Automation Pyramid model:
 
-<img src="/images/posts/test-automation-pyramid.jpg" alt="Diagram of the Test Automation Pyramid Model" style="float:left; margin-right: 10px; width:30%;" />
+<img src="/images/posts/test-automation-pyramid.jpg" alt="Diagram of the Test Automation Pyramid Model" style="float:right; margin-left: 10px; width:30%;" />
 
 So often this is used as a roadmap for applying automated testing to a system, with no context applied to it.
 
@@ -63,7 +63,7 @@ According to psychologist Katsuya Inoue, ikigai is a concept consisting of two a
 
 The concept of Ikigai is often boiled down to the following model diagram:
 
-<img src="/images/posts/ikigai-1024x968.jpg" alt="Diagram of the Ikigai Model" style="float:right; margin-left: 10px; width:30%;" />
+<img src="/images/posts/ikigai-1024x968.jpg" alt="Diagram of the Ikigai Model" style="float:right; margin-left: 10px; width:50%;" />
 
 Each circle depicts value to someone:
 
@@ -127,7 +127,7 @@ Learn about yourself! Learn what your levels are. Learn what drives you and what
 
 Use all that information to create **YOUR** version of the Ikigai model, and find something that truly gives you a "reason for being"
 
-<img src="/images/posts/MyIkigai.jpg" alt="Diagram of the author's Ikigai Model" style="float:left; margin-right: 10px; width:30%;" />
+<img src="/images/posts/MyIkigai.png" alt="Diagram of the author's Ikigai Model" style="float:left; margin-right: 10px; width:30%;" />
 
 _EDIT: Even my own perception of the priorities in my model above was completely different to my wife’s view of my priorities (she was correct, so the model now reflects those figures) - Another superb example of the fluidity and context of life._
 
