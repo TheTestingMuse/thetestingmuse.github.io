@@ -13,7 +13,7 @@ categories:
   - Critical Thinking
 ---
 
-In software, and in testing and quality specifically, we have a fondness of using "models" to help our understanding of things. We model user behaviour, we model though patterns, we model our systems, we model all the things!
+In software, and in testing and quality specifically, we have a fondness of using "models" to help our understanding of things. We model user behaviour, we model thought patterns, we model our systems, we model all the things!
 
 <img src="/images/posts/GiefMehAllT3hModels.jpg" alt="Internet meme saying Gief Meh All The Models" style="float:right; margin-left: 10px; width:30%;" />
 
@@ -27,13 +27,13 @@ What is often overlooked, is that models are simply a _guide_, not a set of rule
 >
 > Models should not be true, but it is important that they are _applicable_, and **whether they are applicable for any given purpose must of course be investigated**. This also means that a model is never accepted finally, only on trial.
 
-So why do so many people take a model and try to apply it to their situation, without taking into account its context?
+So why do so many people take a model and try to apply it to their situation, without taking into account "context"?
 
 A _great_ example here is the Test Automation Pyramid model:
 
 <img src="/images/posts/test-automation-pyramid.jpg" alt="Diagram of the Test Automation Pyramid Model" style="float:right; margin-left: 10px; width:30%;" />
 
-So often this is used as a roadmap for applying automated testing to a system, with no context applied to it.
+So often this model is used as a roadmap for applying automated testing to a system, but with no context applied to it for the system itself.
 
 To demonstrate the fallibility of models, I want to take a world-renowned model known as Ikigai, ask some questions of that model to better understand it's application and how it might fail in some contexts.
 
@@ -50,7 +50,7 @@ The term "ikigai" actually compounds two Japanese words:
 
 This paraphrases as "a reason for living"
 
-According to a study, feeling ikigai as described by the Japanese, usually means the feeling of accomplishment and fulfilment that follows when people pursue their passions.
+According to a study, ikigai as described by the Japanese, usually means the feeling of accomplishment and fulfilment that follows when people pursue their passions.
 
 Activities that allow one to feel ikigai are not forced on an individual; they are perceived as being spontaneous and undertaken willingly, and therefore are personal, depending entirely on a person's inner self.
 
@@ -72,20 +72,24 @@ Each circle depicts value to someone:
 - What you can be **paid for**
 - What you're **good at**
 
-For some folks, this single circle is enough to live a happy and fulfilled life.
+For some folks, a single one of these circles is enough to live a happy and fulfilled life.
 
-Other people are fortunate enough to combine a couple of these things and perhaps even live a happier and more fulfilled life:
+Other people are fortunate enough to combine a couple of these things, and perhaps even live an even happier and more fulfilled life:
 
-- What you love + What the world needs = A Mission
-- What the world needs + What you can be paid for = A Vocation
-- What you can be paid for + What you're good at = A Profession
-- What you're good at + What you love = A Passion
+- What you love + What the world needs = **A Mission**
+- What the world needs + What you can be paid for = **A Vocation**
+- What you can be paid for + What you're good at = **A Profession**
+- What you're good at + What you love = **A Passion**
 
-The more you can find a cross-over, the happier you will be, according to the model - Put simply, if you can find something that you love, that the world needs, which you can be paid for, and which you're good at, you will achieve Ikigai - _"a reason for being"_
+The more cross-overs you can find, the happier you will be, according to the model.
 
-So, Ikigai is a thing of wonder, and a positive model for everyone who finds their own Ikigai, right? I mean a single aspect is "OK", combining two is "Good", combining 3 is "Great" and being in a place where you have all 4 aspects is "Perfect", surely?
+At the pinnacle of combining circles, if you can find something that you love, that the world needs, which you can be paid for, and which you're good at, you will achieve Ikigai - _"a reason for being"_
 
-Well, not exactly…
+So, Ikigai is a thing of wonder, and a positive model for everyone who finds their own Ikigai, right?
+
+I mean a single aspect is "OK", combining two is "Good", combining 3 is "Great" and being in a place where you have all 4 aspects is "Perfect", surely?
+
+Well, not exactly...
 
 ## All Models are Fallible
 
@@ -94,16 +98,16 @@ Likewise the reply is unlikely to be "I 100% **hate** my job in every way possib
 
 The reality is that everyone will be on a scale of between 0% and 100% from hate to love, and _every hour of every day of every week in that job will result in a different percentage figure_ if that person is asked.
 
-Expanding this out, each of those aspects is also on that sliding scale from zero to maximum:
+Expanding this out, each of those aspects is _also_ on that sliding scale (or level) from zero to maximum:
 
 - You might love _a couple of aspects_ of the thing you do, or it might be _your only desire in life_.
 - You might be ‘ok' at the thing, or world-class at it.
 - You might be paid barely a minimum wage for the thing, or you might be in the top 1% of the whole planet in salary. In fact, you might be _able_ to be paid for something, but not _actually_ be paid for it (creatives often see this)
 - The world might ‘kinda' need what you do, or it may be something essential to the wellbeing of the whole planet.
 
-Combining these ideas, what if you **love** making bespoke clothes, are **OK at it**, and you make back a small margin more than you pay in materials when you sell on eBay (**barely profitable**), and we know **the world needs clothes**. Is that classed as Ikigai? Is that really a "reason for being"?
+Combining these additional "levels", what if you **love** making bespoke clothes, are **OK at it**, and you make back a small margin more than you pay in materials when you sell on eBay (**barely profitable**), and we know **the world needs clothes**? You have achieved a combination of all aspects, so is that classed as Ikigai? Is that really a "reason for being"?
 
-You will also have your own needs, and wants in life, and **one of those 4 aspects may be more important to you than another aspect**. If you don't have that aspect, are you going to be happy, even if you have **all** the other aspects from the model?
+**You** will also have _your_ own needs, and wants in life, and **one of those 4 aspects may be more important _to you_ than another aspect**. If you don't have that one most important aspect, are you going to be happy, even if you have **all** the other aspects from the model?
 
 What if the world needs people to be better with recycling and reuse of things, you're fantastic at it and you enjoy it, but nobody will pay for what you do? Ikigai?
 
@@ -122,6 +126,8 @@ Ikigai was achieved for her, but it drove her to needing to quit that role, take
 ## Context is key
 
 This is my favourite phrase of all time. Each and every one of us is an individual, with individual needs, individual hates, individual acceptance levels, individual mental and physical health levels.
+
+> Context is key!
 
 Learn about yourself! Learn what your levels are. Learn what drives you and what you're passionate about. Learn what you can live without. Learn what's essential for you to be happy in life.
 
