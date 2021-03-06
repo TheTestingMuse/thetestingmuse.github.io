@@ -6,7 +6,7 @@ description: "... Hopefully this post will start you off thinking about how the 
 date: 2021-03-06 20:19:00 +00:00
 author: David
 permalink: /blog/six-3-amigos-hats/
-featured_image: /images/posts/ThreeAmigos.jpg
+featured_image: /images/posts/ThreeAmigos.png
 categories:
   - Testing
   - Models
@@ -28,7 +28,7 @@ People holding these different perspectives should collaborate to define what to
 
 It’s also good practice for to review increments of the product that have been implemented to make sure it’s correct from those different perspectives.
 
-The concept of three amigos intends to balance between no collaboration between people with different perspectives and involving an entire team in discussing all the details of every increment of work.
+**The concept of three amigos intends to balance between no collaboration between people with different perspectives and involving an entire team in discussing all the details of every increment of work.**
 
 Source: [Agile Alliance](https://www.agilealliance.org/glossary/three-amigos/)
 
@@ -42,17 +42,17 @@ The hats are described as follows:
 
 <img src="/images/posts/SixThinkingHats.jpg" alt="Six coloured Thinking Hats" style="float:right; margin-left: 10px; width:30%;" />
 
-The White Hat calls for information known or needed. "The facts, just the facts."
+The **White Hat** calls for information known or needed. "The facts, just the facts."
 
-The Yellow Hat symbolises brightness and optimism. Under this hat you explore the positives and probe for value and benefit.
+The **Yellow Hat** symbolises brightness and optimism. Under this hat you explore the positives and probe for value and benefit.
 
-The Black Hat is judgment – the devil’s advocate or why something may not work. Spot the difficulties and dangers; where things might go wrong. Probably the most powerful and useful of the Hats but a problem if overused.
+The **Black Hat** is judgment – the devil’s advocate or why something may not work. Spot the difficulties and dangers; where things might go wrong. Probably the most powerful and useful of the Hats but a problem if overused.
 
-The Red Hat signifies feelings, hunches and intuition. When using this hat you can express emotions and feelings and share fears, likes, dislikes, loves, and hates.
+The **Red Hat** signifies feelings, hunches and intuition. When using this hat you can express emotions and feelings and share fears, likes, dislikes, loves, and hates.
 
-The Green Hat focuses on creativity; the possibilities, alternatives, and new ideas. It’s an opportunity to express new concepts and new perceptions.
+The **Green Hat** focuses on creativity; the possibilities, alternatives, and new ideas. It’s an opportunity to express new concepts and new perceptions.
 
-The Blue Hat is used to manage the thinking process. It’s the control mechanism that ensures the Six Thinking Hats® guidelines are observed.
+The **Blue Hat** is used to manage the thinking process. It’s the control mechanism that ensures the Six Thinking Hats® guidelines are observed.
 
 ## Combining concepts
 Let’s run through the different hats, and some example "3 Amigos" discussion points they might bring into the discussion.
