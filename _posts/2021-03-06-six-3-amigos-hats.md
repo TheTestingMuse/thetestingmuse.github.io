@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Six "3 Amigos" Hats
+title: Six 3 Amigos Hats
 subtitle: 6th Mar 2021
 description: "... Hopefully this post will start you off thinking about how the Six Thinking Hats might help your teams to discuss and agree on different aspects of the task ahead. That in turn should lessen ambiguity, give greater clarity on what you’re working on, and reduce issues you might otherwise have found later in the process..."
 date: 2021-03-06 20:19:00 +00:00
