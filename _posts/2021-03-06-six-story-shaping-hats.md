@@ -16,16 +16,18 @@ categories:
   - Planning
 ---
 
-This post is designed to give you a solid strategy for discussing and agreeing on different aspects of the task ahead, during a traditional Agile development ~"3 Amigos"~ Story Shaping planning session.
+EDIT: This post has been adjusted to swap the gendered term "3 Amigos" for non-gendered (and frankly more obvious!) term "Story Shaping" (I will also update the image when I get on my dev machine next!)
 
-## What is a ~"3 Amigos"~ Story Shaping session?
-The term refers to the primary perspectives to examine an increment of work before, during, and after development.  Those perspectives are:
+This post is designed to give you a solid strategy for discussing and agreeing on different aspects of the task ahead, during a traditional Agile development ~~"3 Amigos"~~ Story Shaping planning session.
+
+## What is a Story Shaping session?
+The term refers to the primary perspectives to examine an increment of work before, during, and after development. Those perspectives are:
 
 * Business – What problem are we trying to solve?
 * Development – How might we build a solution to solve that problem?
 * Testing – What about this, what could possibly happen?
 
-People holding these different perspectives should collaborate to define what to do, and agree on how they know when it is done correctly.  The end result of such a collaboration results in a clearer description of an increment of work often in the form of examples, leading to a shared understanding for the team.
+People holding these different perspectives should collaborate to define what to do, and agree on how they know when it is done correctly. The end result of such a collaboration results in a clearer description of an increment of work often in the form of examples, leading to a shared understanding for the team.
 
 It’s also good practice for to review increments of the product that have been implemented to make sure it’s correct from those different perspectives.
 
