@@ -1,24 +1,25 @@
 ---
 layout: post
-title: Six 3 Amigos Hats
+title: Six Story Shaping Hats
 subtitle: 6th Mar 2021
 description: "... Hopefully this post will start you off thinking about how the Six Thinking Hats might help your teams to discuss and agree on different aspects of the task ahead. That in turn should lessen ambiguity, give greater clarity on what you’re working on, and reduce issues you might otherwise have found later in the process..."
 date: 2021-03-06 20:19:00 +00:00
 author: David
-permalink: /blog/six-3-amigos-hats/
+permalink: /blog/six-story-shaping-hats/
 featured_image: /images/posts/ThreeAmigos.png
 categories:
   - Testing
   - Models
   - Agile
   - 3 Amigos
+  - Story Shaping
   - Planning
 ---
 
-This post is designed to give you a solid strategy for discussing and agreeing on different aspects of the task ahead, during a traditional Agile development "3 Amigos" planning session.
+This post is designed to give you a solid strategy for discussing and agreeing on different aspects of the task ahead, during a traditional Agile development ~"3 Amigos"~ Story Shaping planning session.
 
-## What is a "3 Amigos" planning session?
-Three amigos refers to the primary perspectives to examine an increment of work before, during, and after development.  Those perspectives are:
+## What is a ~"3 Amigos"~ Story Shaping session?
+The term refers to the primary perspectives to examine an increment of work before, during, and after development.  Those perspectives are:
 
 * Business – What problem are we trying to solve?
 * Development – How might we build a solution to solve that problem?
@@ -28,7 +29,7 @@ People holding these different perspectives should collaborate to define what to
 
 It’s also good practice for to review increments of the product that have been implemented to make sure it’s correct from those different perspectives.
 
-**The concept of three amigos intends to balance between no collaboration between people with different perspectives and involving an entire team in discussing all the details of every increment of work.**
+**The concept intends to balance between no collaboration between people with different perspectives and involving an entire team in discussing all the details of every increment of work.**
 
 Source: [Agile Alliance](https://www.agilealliance.org/glossary/three-amigos/)
 
@@ -55,7 +56,7 @@ The **Green Hat** focuses on creativity; the possibilities, alternatives, and ne
 The **Blue Hat** is used to manage the thinking process. It’s the control mechanism that ensures the Six Thinking Hats® guidelines are observed.
 
 ## Combining concepts
-Let’s run through the different hats, and some example "3 Amigos" discussion points they might bring into the discussion.
+Let’s run through the different hats, and some example "Story Shaping" discussion points they might bring into the discussion.
 
 ### Blue hat - The Thinking Process facilitator’s hat
 This person (often the PO) manages the flow of the conversation and make sure all hats have been worn, and different aspects raised have been discussed and noted.
