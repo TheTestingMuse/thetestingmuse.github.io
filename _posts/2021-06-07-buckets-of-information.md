@@ -20,25 +20,26 @@ Today I want to chat about a model I've been using for a little while, to talk a
 
 And more specifically how each of those things interacts with the other.
 
-<img src="/images/posts/BucketsModel-Water.jpg" alt="Hand-drawn picture depicting several buckets and pipes. The bottom of each bucket connects to a lower bucket via a pipe" style="float:right; margin-left: 10px; width:30%;" />
+<img src="/images/posts/BucketsModel-Water.jpg" alt="Hand-drawn picture depicting several buckets and pipes. The bottom of each bucket connects to a lower bucket via a pipe" style="float:right; margin-left: 10px; width:50%;" />
 
 So, let's start off with a mental picture of a hand-driven water pump and six buckets:
+
 **Pump**
-We can use the pump to pour water out of the spout, into Bucket 1.
+<br />We can use the pump to pour water out of the spout, into Bucket 1.
 
 **Bucket 1**
-This bucket can be filled up via several small hoses, or via the big hand pump.
-It has a pipe to pour water into...
+<br />This bucket can be filled up via several small hoses, or via the big hand pump.
+<br />It has a pipe to pour water into...
 
 **Bucket 2**
-An empty bucket. This bucket can _only_ be filled from Bucket 1.
-It has several pipes with valves, which pour water into...
+<br />An empty bucket. This bucket can _only_ be filled from Bucket 1.
+<br />It has several pipes with valves, which pour water into...
 
 **Buckets 3, 4, 5, and 6**
-These buckets all have _some_ level of water inside them.
-The most efficient way to put water into these buckets is from the valves on Bucket 2.
+<br />These buckets all have _some_ level of water inside them.
+<br />The most efficient way to put water into these buckets is from the valves on Bucket 2.
 
-<img src="/images/posts/BucketsModel-Testing.jpg" alt="Hand-drawn picture depicting several buckets and pipes. The bottom of each bucket connects to a lower bucket via a pipe" style="float:right; margin-left: 10px; width:30%;" />
+<img src="/images/posts/BucketsModel-Testing.jpg" alt="Hand-drawn picture depicting several buckets and pipes. The bottom of each bucket connects to a lower bucket via a pipe" style="float:right; margin-left: 10px; width:50%;" />
 
 Now let's re-label the model:
 - Pumping == Testing
