@@ -62,4 +62,4 @@ Bear in mind, though, that if we pump too much, we create excess Information (wa
 
 Testing provides information to make decisions on how and where we should look to increase quality, whether that's quality of idea, quality of code, quality of pipelines, quality of the final product etc.
 
-Tweet me (@TheTestingMuse) with your ideas on how you might fill your Information bucket, or if you have any feedback on this model.
+Tweet me [@TheTestingMuse](https://twitter.com/TheTestingMuse) with your ideas on how you might fill your Information bucket, or if you have any feedback on this model.
