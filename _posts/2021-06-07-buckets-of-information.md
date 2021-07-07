@@ -2,7 +2,7 @@
 layout: post
 title: Buckets of Information
 subtitle: 7th July 2021
-description: "... ..."
+description: "... Today I want to chat about a model I've been using for a little while, to talk about the relationship between four things - Testing, Information, Choice, and Quality. More specifically, how each of those things interacts with the other..."
 date: 2021-06-07 13:07:00 +00:00
 author: David
 permalink: /blog/buckets-of-information/
