@@ -6,7 +6,7 @@ description: "... Hopefully this post will start you off thinking about how the 
 date: 2021-03-06 20:19:00 +00:00
 author: David
 permalink: /blog/six-story-shaping-hats/
-featured_image: /images/posts/ThreeAmigos.png
+featured_image: /images/posts/ClayShaping.jpg
 categories:
   - Testing
   - Models
