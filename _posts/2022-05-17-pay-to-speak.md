@@ -2,7 +2,7 @@
 layout: post
 title: #PayToSpeak - Is it a binary choice?
 subtitle: 17th May 2022
-description: "... If I get enough value from my personal outlay to speak at a conference, I'm no longer paying to speak, I'm entering into a known exchange of value, or trade - They get my time, effort and experience and I get <thingIValue> in exchange."
+description: "... If I get enough value from my personal outlay to speak at a conference, I'm no longer paying to speak, I'm entering into a known exchange of value, or trade - They get my time, effort and experience and I get /<thingIValue/> in exchange."
 date: 2022-05-17 12:00:00 +01:00
 author: David
 permalink: /blog/pay-to-speak/
