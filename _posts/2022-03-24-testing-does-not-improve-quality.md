@@ -3,7 +3,7 @@ layout: post
 title: Testing does NOT improve quality!
 subtitle: 24th March 2022
 description: "... Testing can be a significant part of improving quality but only when it is paired with a mechanism to alter the system under development. An efficient change mechanism allows teams to lessen waste and use testing to generate information that can be actioned to improve quality."
-date: 2021-03-24 12:00:00 +01:00
+date: 2022-03-24 12:00:00 +01:00
 author: David
 permalink: /blog/testing-does-not-improve-quality/
 featured_image: /images/posts/testing.jpg
