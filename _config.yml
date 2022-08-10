@@ -1,6 +1,9 @@
 site: The Testing Muse
+title: The Testing Muse
+description: A source for inspired testing information.
+author: David Williams
 
-url:
+url: https://thetestingmuse.uk/
 baseurl:
 
 collections:
@@ -51,6 +54,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
 
 paginate: 6
 paginate_path: "/blog/page:num/"
