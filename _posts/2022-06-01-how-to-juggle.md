@@ -73,6 +73,9 @@ Within Areas I have specific Projects (Goal-based outcomes that are supported by
     8. etc
 
 Within each Project I have relevant Headers for the type of project it is, and under the Headers all the Tasks live. An example might be:
+
+<img src="/images/posts/things3-projects-headers.jpg" alt="An example Project in the software Things3 project and task management software by Cultured Code." style="float:left; margin-left: 10px; width:50%;" />
+
 - Ada Health
     - Mobile Team
         - [To Do]
@@ -82,8 +85,6 @@ Within each Project I have relevant Headers for the type of project it is, and u
         - [In Progress]
             - Schedule Threat Modelling for Project 1
 
-<img src="/images/posts/things3-projects-headers.jpg" alt="An example Project in the software Things3 project and task management software by Cultured Code." style="float:left; margin-left: 10px; width:50%;" />
-
 The great thing about Things3 as a tool is that the different timeframes are filtered automatically, so "Today" shows me a great view with all of the Projects that have a task scheduled for Today and then the specific talk within the Project.
 
 ## Prioritisation
@@ -92,7 +93,8 @@ The great thing about Things3 as a tool is that the different timeframes are fil
 To help with Prioritisation, I use several methods:
 
 1. If the task has an absolute Deadline (must be done by...) I assign it that date and I assign a When date (would like to do this on...) to give myself time to complete it
-2. I use the Eisenhower Matrix as nested Tags to help prioritise unscheduled tasks:
+2. I use the Eisenhower Matrix as nested Tags to help prioritise unscheduled tasks
+3. I add an "Eat That Frog" tag for the horrible tasks
 
 ## Notes
 
