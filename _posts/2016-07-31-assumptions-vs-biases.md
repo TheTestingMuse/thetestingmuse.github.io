@@ -31,7 +31,7 @@ Let me start my thought process with two definitions:
 
 bias | assumption
 --- | ---
-Pronunciation: /Ààb å…™…ôs/ **NOUN**<br /><br />**1** ; Inclination or prejudice for or against one person or group, especially in a way considered to be unfair:<br />* "there was evidence of bias against black applicants"<br />* "the bias towards younger people in recruitment" | Pronunciation: /…ôÀàs åm(p) É(…ô)n/ **NOUN**<br /><br />**1** ; A thing that is accepted as true or as certain to happen, without proof:<br />* "they made certain assumptions about the market"<br />* "we're working on the assumption that the time of death was after midnight"
+**NOUN**<br /><br />**1** ; Inclination or prejudice for or against one person or group, especially in a way considered to be unfair:<br />* "there was evidence of bias against black applicants"<br />* "the bias towards younger people in recruitment" | **NOUN**<br /><br />**1** ; A thing that is accepted as true or as certain to happen, without proof:<br />* "they made certain assumptions about the market"<br />* "we're working on the assumption that the time of death was after midnight"
 
 The same as I thought; one is "_considered to be unfair_" which lends to the negative connotation in my mind. The other is neither negative, nor positive; it is just something that has not been proven one way or the other.
 
