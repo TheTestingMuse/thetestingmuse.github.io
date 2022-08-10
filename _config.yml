@@ -52,7 +52,7 @@ sass:
   style: compressed
 
 plugins:
-  - kramdown-parser-gfm
+#  - kramdown-parser-gfm
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
