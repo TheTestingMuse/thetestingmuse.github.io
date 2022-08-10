@@ -2,7 +2,7 @@
 layout: post
 title: How to Juggle (and drop only a few balls!)
 subtitle: 1st June 2022
-description: "... Testing can be a significant part of improving quality but only when it is paired with a mechanism to alter the system under development. An efficient change mechanism allows teams to lessen waste and use testing to generate information that can be actioned to improve quality."
+description: "... I have a reasonably dialled-in way to keep track of a manic life, but it's not quite perfect as I'd love to have everything in a single place. What do you do to keep track of a manic life and stop dropping one of the many balls you're juggling?"
 date: 2022-06-01 12:00:00 +01:00
 author: David
 permalink: /blog/how-to-juggle/
