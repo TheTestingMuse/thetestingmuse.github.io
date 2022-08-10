@@ -67,7 +67,7 @@ Like **all good projects** he collaborates and gets his team together
 - Engineering
 - Quality
 
-Thety set about discussing the project:
+They set about discussing the project:
 - The **plan**
 - The **risks**
 - The **work items**
@@ -83,7 +83,7 @@ They ship the product to stores, but there’s **hardly any interest** from cust
 
 So they **build more features** into a v2
 
-And** even more features** into a v3
+And **even more features** into a v3
 
 They ship v3 to stores but there's **still no interest!**
 
@@ -103,6 +103,8 @@ They decide **they want direct customer feedback** on the product, but as there 
 - This salt shaker is more ridiculous than Juicero...
 - What did salt do to deserve a bluetooth-connected shaker?
 
+<img src="/images/posts/Quality-Is-Pointless-NoValue.jpeg" alt="High quality is pointless in products with no value." style="float:right; margin-left: 10px; width:50%;" />
+
 **Oh dear!**
 
 All that **time**
@@ -113,11 +115,9 @@ All that **money spent on developing the product**
 
 And **Such. Good. Quality.**
 
-<img src="/images/posts/Quality-Is-Pointless-NoValue.jpeg" alt="High quality is pointless in products with no value." style="float:right; margin-left: 10px; width:50%;" />
-
 **THIS is when Quality is Pointless!**
 
-## Let’s **rewind right the way back...**
+## Let’s rewind right the way back...
 
 Steve thrashed-out **lots of questions** initially to understand the **viability of his product**
 - Do we have the right people and skills?
@@ -132,7 +132,7 @@ Steve thrashed-out **lots of questions** initially to understand the **viability
 
 **What’s missing?**
 
-He didn't try to get to the bottom of the **Value** of the product!
+> He didn't try to get to the bottom of the **Value** of the product!
 
 He didn't ask **Why** they were doing this?
 
@@ -144,18 +144,18 @@ These types of question help us to decide whether there’s **Value** in the wor
 
 **High Quality is Pointless in products with no Value**
 
-It’s a **waste of time, effort **AND** money**
+It’s a **waste of time, effort, AND money**
 
 **Try to understand you product’s potential value**
+
+<img src="/images/posts/Quality-Is-Pointless-ItsReal.jpeg" alt="The Smalt bluetooth salt shaker." style="float:right; margin-left: 10px; width:50%;" />
 
 If you can't, ask around and learn about the context of the work
 
 When you understand the value, THEN **Fit your quality strategy to it:**
 - If it’s a **gut feel** or **hunch** or has **no metrics**, try to drive the focus on **GETTING** metrics ASAP
-- If there’s a **wealth of metrics** driving the decision to build it, **THEN** focus on quality
+- If there’s a **wealth of metrics** driving the decision to build it, **THEN** focus on quality.
 
 It is 100% within a Quality professional's remit to help the business and teams think about the work, the value and how we create it with high quality, when high quality makes sense.
-
-<img src="/images/posts/Quality-Is-Pointless-ItsReal.jpeg" alt="The Smalt bluetooth salt shaker." style="float:right; margin-left: 10px; width:50%;" />
 
 Oh, and yes, the bluetooth-connected musical salt shaker that doesn't grind salt is a real product... 🤦🏼‍♂️
