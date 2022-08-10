@@ -74,7 +74,7 @@ Within Areas I have specific Projects (Goal-based outcomes that are supported by
 
 Within each Project I have relevant Headers for the type of project it is, and under the Headers all the Tasks live. An example might be:
 
-<img src="/images/posts/things3-projects-headers.jpg" alt="An example Project in the software Things3 project and task management software by Cultured Code." style="float:left; margin-left: 10px; width:50%;" />
+<img src="/images/posts/things3-projects-headers.jpg" alt="An example Project in the software Things3 project and task management software by Cultured Code." style="float:right; margin-left: 10px; width:50%;" />
 
 - Ada Health
     - Mobile Team
