@@ -32,7 +32,8 @@ As an Engineering Manager for a cross-functional team, in a start-up where the f
 
 In addition to the "day job" I am a homeowner, father and husband, and with that comes a metric tonne of additional projects, plans, responsibilities and things that need tackling when I'm not at the keyboard.
 
-**Task Management**
+## Task Management
+<img src="/images/posts/things3-wholescreen.jpg" alt="The entire window of Things3 project and task management software, software by Cultured Code." style="float:right; margin-left: 10px; width:100%;" />
 
 I've used a lot(!) of task management tools in the past, and a few different processes too, but right now I'm using the GTD (Getting Things Done) method of task organisation, using @culturedcode Things3 app on MacOS, iOS and my Apple watch.
 
@@ -85,9 +86,7 @@ Within each Project I have relevant Headers for the type of project it is, and u
 
 The great thing about Things3 as a tool is that the different timeframes are filtered automatically, so "Today" shows me a great view with all of the Projects that have a task scheduled for Today and then the specific talk within the Project.
 
-<img src="/images/posts/things3-wholescreen.jpg" alt="The entire window of Things3 project and task management software, software by Cultured Code." style="float:right; margin-left: 10px; width:100%;" />
-
-**Prioritisation**
+## Prioritisation
 <img src="/images/posts/things3-tags.jpg" alt="The Tags dialogue of Things3 project and task management software, software by Cultured Code. Tags shown are the Eat a Frog and Eisenhower Matrix task management methods." style="float:right; margin-left: 10px; width:50%;" />
 
 To help with Prioritisation, I use several methods:
@@ -95,7 +94,7 @@ To help with Prioritisation, I use several methods:
 1. If the task has an absolute Deadline (must be done by...) I assign it that date and I assign a When date (would like to do this on...) to give myself time to complete it
 2. I use the Eisenhower Matrix as nested Tags to help prioritise unscheduled tasks:
 
-**Notes**
+## Notes
 
 For Notes (e.g. Meetings) I used @RoamResearch for ages with its automatic Backlinks functionality and that worked great, but the monthly cost was a turn-off.
 
@@ -103,7 +102,7 @@ Recently I started to trial @obsdmd which is similar, but stores everything as f
 
 I've also started to experiment with using Things3 itself for notes on specific one-off tasks, for example this blog post is a Things3 task I have in my Career (area) > Blogging (project) > Drafts (heading) > How to Juggle (and drop only a few balls!) (task) and I'm editing the blog post directly as markdown in the task Notes area, ready to copy and paste to my blog.
 
-**TL;DR**
+## TL;DR
 
 I have a reasonably dialled-in way to keep track of a manic life, but it's not quite perfect as I'd love to have everything in a single place.
 
